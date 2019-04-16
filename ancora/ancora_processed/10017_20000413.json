@@ -1,0 +1,2359 @@
+[
+  [
+    {
+      "wd": "El",
+      "id": "d1",
+      "pos": "da0ms0",
+      "lem": "el",
+      "gen": "m",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "grupo",
+      "gen": "m",
+      "id": "n1",
+      "pos": "ncms000",
+      "lem": "grupo",
+      "sense": "16:00017954",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "estatal",
+      "id": "a1",
+      "pos": "aq0cs0",
+      "lem": "estatal",
+      "gen": "c",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "ne": "organization",
+      "wd": "Electricité_de_France",
+      "id": "n2",
+      "pos": "np00000",
+      "lem": "Electricité_de_France",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "(",
+      "punct": "bracket",
+      "id": "f1",
+      "pos": "fpa",
+      "lem": "(",
+      "punctenclose": "open"
+    },
+    {
+      "ne": "organization",
+      "wd": "EDF",
+      "id": "n3",
+      "pos": "np00000",
+      "lem": "EDF",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": ")",
+      "punct": "bracket",
+      "id": "f2",
+      "pos": "fpt",
+      "lem": ")",
+      "punctenclose": "close"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "anunció",
+      "mood": "indicative",
+      "tense": "past",
+      "pos": "vmis3s0",
+      "lem": "anunciar",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "ne": "organization",
+        "begins": 0,
+        "entityref": "ne",
+        "arg": "arg0",
+        "tem": "agt",
+        "id": "sn1",
+        "ends": 6,
+        "func": "suj",
+        "entity": "entity1"
+      },
+      "postype": "main",
+      "lexicalid": "verb.anunciar.1.default",
+      "id": "v1",
+      "person": "3"
+    },
+    {
+      "id": "r1",
+      "wd": "hoy",
+      "lem": "hoy",
+      "pos": "rg"
+    },
+    {
+      "id": "f3",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "ne": "date",
+      "id": "w1",
+      "wd": "jueves",
+      "lem": "[jueves:??/??/??:??.??]"
+    },
+    {
+      "id": "f4",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "la",
+      "id": "d2",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "compra",
+      "iarg0": "agt:entity1",
+      "iarg2": "ben:entity7",
+      "pos": "ncfs000",
+      "lem": "compra",
+      "sense": "16:00049855",
+      "num": "s",
+      "origin": "deverbal",
+      "lexicalid": "noun.compra.2.default",
+      "id": "n4",
+      "gen": "f",
+      "postype": "common"
+    },
+    {
+      "wd": "del",
+      "num": "s",
+      "id": "s1",
+      "pos": "spcms",
+      "lem": "del",
+      "gen": "m",
+      "contracted": "yes",
+      "postype": "preposition"
+    },
+    {
+      "ne": "number",
+      "wd": "51_por_ciento",
+      "id": "z1",
+      "pos": "zp",
+      "lem": "51_%",
+      "postype": "percentage"
+    },
+    {
+      "wd": "de",
+      "id": "s2",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d3",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "empresa",
+      "gen": "f",
+      "id": "n5",
+      "pos": "ncfs000",
+      "lem": "empresa",
+      "sense": "16:06004580",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "mexicana",
+      "id": "a2",
+      "pos": "aq0fs0",
+      "lem": "mexicano",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "ne": "organization",
+      "wd": "Electricidad_Águila_de_Altamira",
+      "id": "n6",
+      "pos": "np00000",
+      "lem": "Electricidad_Águila_de_Altamira",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "(",
+      "punct": "bracket",
+      "id": "f5",
+      "pos": "fpa",
+      "lem": "(",
+      "punctenclose": "open"
+    },
+    {
+      "ne": "organization",
+      "wd": "EAA",
+      "id": "n7",
+      "pos": "np00000",
+      "lem": "EAA",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": ")",
+      "punct": "bracket",
+      "id": "f6",
+      "pos": "fpt",
+      "lem": ")",
+      "punctenclose": "close"
+    },
+    {
+      "id": "f7",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "lss": "B22.unaccusative-passive-transitive",
+      "posfunction": "participle",
+      "wd": "creada",
+      "id": "a3",
+      "pos": "aq0fsp",
+      "lem": "creado",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "por",
+      "id": "s3",
+      "postype": "preposition",
+      "lem": "por",
+      "pos": "sps00"
+    },
+    {
+      "wd": "el",
+      "id": "d4",
+      "pos": "da0ms0",
+      "lem": "el",
+      "gen": "m",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "japonés",
+      "id": "a4",
+      "pos": "aq0ms0",
+      "lem": "japonés",
+      "gen": "m",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "ne": "organization",
+      "wd": "Mitsubishi_Corporation",
+      "id": "n8",
+      "pos": "np00000",
+      "lem": "Mitsubishi_Corporation",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "para",
+      "id": "s4",
+      "postype": "preposition",
+      "lem": "para",
+      "pos": "sps00"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "poner_en_marcha",
+      "lexicalid": "verb.poner_en_marcha.1.default",
+      "mood": "infinitive",
+      "id": "v2",
+      "pos": "vmn0000",
+      "lem": "poner_en_marcha",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "wd": "una",
+      "id": "d5",
+      "pos": "di0fs0",
+      "lem": "uno",
+      "gen": "f",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "wd": "central",
+      "gen": "f",
+      "id": "n9",
+      "pos": "ncfs000",
+      "lem": "central",
+      "sense": "16:03168190",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s5",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "gas",
+      "gen": "m",
+      "id": "n10",
+      "pos": "ncms000",
+      "lem": "gas",
+      "sense": "16:10671811",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s6",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "id": "z2",
+      "wd": "495",
+      "lem": "495"
+    },
+    {
+      "wd": "megavatios",
+      "gen": "m",
+      "id": "n11",
+      "pos": "ncmp000",
+      "lem": "megavatio",
+      "sense": "16:09809646",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "id": "f8",
+      "wd": ".",
+      "lem": ".",
+      "punct": "period",
+      "pos": "fp"
+    }
+  ],
+  [
+    {
+      "wd": "Una",
+      "id": "d6",
+      "pos": "di0fs0",
+      "lem": "uno",
+      "gen": "f",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "wd": "portavoz",
+      "gen": "c",
+      "id": "n12",
+      "pos": "nccs000",
+      "lem": "portavoz",
+      "sense": "16:07601722",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s7",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "organization",
+      "wd": "EDF",
+      "id": "n13",
+      "pos": "np00000",
+      "lem": "EDF",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "lss": "A32.ditransitive-patient-benefactive",
+      "wd": "explicó",
+      "mood": "indicative",
+      "tense": "past",
+      "pos": "vmis3s0",
+      "lem": "explicar",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "func": "suj",
+        "begins": 0,
+        "arg": "arg0",
+        "tem": "agt",
+        "id": "sn14",
+        "ends": 3,
+        "entityref": "nne"
+      },
+      "postype": "main",
+      "lexicalid": "verb.explicar.1.default",
+      "id": "v3",
+      "person": "3"
+    },
+    {
+      "wd": "a",
+      "id": "s8",
+      "postype": "preposition",
+      "lem": "a",
+      "pos": "sps00"
+    },
+    {
+      "ne": "organization",
+      "wd": "EFE",
+      "id": "n14",
+      "pos": "np00000",
+      "lem": "EFE",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "que",
+      "id": "c1",
+      "postype": "subordinating",
+      "lem": "que",
+      "pos": "cs"
+    },
+    {
+      "wd": "el",
+      "id": "d7",
+      "pos": "da0ms0",
+      "lem": "el",
+      "gen": "m",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "iarg1": "pat:entity6",
+      "wd": "proyecto",
+      "iarg0": "agt:entity1",
+      "pos": "ncms000",
+      "lem": "proyecto",
+      "sense": "16:00508925",
+      "num": "s",
+      "origin": "deverbal",
+      "lexicalid": "noun.proyecto.4.default",
+      "id": "n15",
+      "gen": "m",
+      "postype": "common"
+    },
+    {
+      "wd": "para",
+      "id": "s9",
+      "postype": "preposition",
+      "lem": "para",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d8",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "pos": "ncfs000",
+      "wd": "construcción",
+      "lexicalid": "noun.construcción.2.default",
+      "gen": "f",
+      "lem": "construcción",
+      "id": "n16",
+      "origin": "deverbal",
+      "iarg0": "agt:entity2",
+      "sense": "16:00585093",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s10",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "Altamira_2",
+      "id": "n17",
+      "pos": "np00000",
+      "lem": "Altamira_2",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "id": "f9",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "al",
+      "num": "s",
+      "id": "s11",
+      "pos": "spcms",
+      "lem": "al",
+      "gen": "m",
+      "contracted": "yes",
+      "postype": "preposition"
+    },
+    {
+      "wd": "norte",
+      "gen": "m",
+      "id": "n18",
+      "pos": "ncms000",
+      "lem": "norte",
+      "sense": "16:09962919",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s12",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "Tampico",
+      "id": "n19",
+      "pos": "np00000",
+      "lem": "Tampico",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "id": "f10",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "prevé",
+      "mood": "imperative",
+      "pos": "vmm02s0",
+      "lem": "prever",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "homophoricDD": "yes",
+        "begins": 8,
+        "entityref": "nne",
+        "arg": "arg0",
+        "tem": "agt",
+        "id": "sn17",
+        "ends": 20,
+        "func": "suj"
+      },
+      "postype": "main",
+      "lexicalid": "verb.prever.1.default",
+      "id": "v4",
+      "person": "2"
+    },
+    {
+      "wd": "la",
+      "id": "d9",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "pos": "ncfs000",
+      "wd": "utilización",
+      "lexicalid": "noun.utilización.2.default",
+      "gen": "f",
+      "lem": "utilización",
+      "id": "n20",
+      "origin": "deverbal",
+      "iarg0": "agt:entity3",
+      "sense": "16:00605730",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s13",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "gas",
+      "gen": "m",
+      "id": "n21",
+      "pos": "ncms000",
+      "lem": "gas",
+      "sense": "16:10671811",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "natural",
+      "id": "a5",
+      "pos": "aq0cs0",
+      "lem": "natural",
+      "gen": "c",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "como",
+      "id": "c2",
+      "postype": "subordinating",
+      "lem": "como",
+      "pos": "cs"
+    },
+    {
+      "wd": "combustible",
+      "gen": "m",
+      "id": "n22",
+      "pos": "ncms000",
+      "lem": "combustible",
+      "sense": "16:10669661",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "principal",
+      "id": "a6",
+      "pos": "aq0cs0",
+      "lem": "principal",
+      "gen": "c",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "en",
+      "id": "s14",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "wd": "una",
+      "id": "d10",
+      "pos": "di0fs0",
+      "lem": "uno",
+      "gen": "f",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "wd": "central",
+      "gen": "f",
+      "id": "n23",
+      "pos": "ncfs000",
+      "lem": "central",
+      "sense": "16:03168190",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s15",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "ciclo",
+      "gen": "m",
+      "id": "n24",
+      "pos": "ncms000",
+      "lem": "ciclo",
+      "sense": "16:05470013",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "posfunction": "participle",
+      "wd": "combinado",
+      "id": "a7",
+      "pos": "aq0msp",
+      "lem": "combinado",
+      "gen": "m",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "que",
+      "id": "p1",
+      "pos": "pr0cn000",
+      "lem": "que",
+      "gen": "c",
+      "num": "c",
+      "postype": "relative"
+    },
+    {
+      "suj": {
+        "coreftype": "ident",
+        "identdegree": "3",
+        "begins": 36,
+        "entityref": "nne",
+        "arg": "arg1",
+        "tem": "tem",
+        "id": "relatiu1",
+        "ends": 36,
+        "func": "suj",
+        "entity": "entity3"
+      },
+      "wd": "debe",
+      "is_verb": true,
+      "num": "s",
+      "mood": "indicative",
+      "tense": "present",
+      "pos": "vmip3s0",
+      "lem": "deber",
+      "id": "v5",
+      "person": "3",
+      "postype": "main"
+    },
+    {
+      "wd": "empezar",
+      "mood": "infinitive",
+      "id": "v6",
+      "pos": "vmn0000",
+      "lem": "empezar",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "wd": "a",
+      "id": "s16",
+      "postype": "preposition",
+      "lem": "a",
+      "pos": "sps00"
+    },
+    {
+      "lss": "C11.state-existential",
+      "wd": "funcionar",
+      "lexicalid": "verb.funcionar.1.default",
+      "mood": "infinitive",
+      "id": "v7",
+      "pos": "vmn0000",
+      "lem": "funcionar",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "wd": "en",
+      "id": "s17",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "ne": "date",
+      "id": "w2",
+      "wd": "mayo_del_2002",
+      "lem": "[??:??/5/2002:??.??]"
+    },
+    {
+      "id": "f11",
+      "wd": ".",
+      "lem": ".",
+      "punct": "period",
+      "pos": "fp"
+    }
+  ],
+  [
+    {
+      "wd": "La",
+      "id": "d11",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "electricidad",
+      "gen": "f",
+      "id": "n25",
+      "pos": "ncfs000",
+      "lem": "electricidad",
+      "sense": "16:07793035",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "posfunction": "participle",
+      "wd": "producida",
+      "id": "a8",
+      "pos": "aq0fsp",
+      "lem": "producido",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "lss": "B11.unaccusative-motion",
+      "wd": "pasará",
+      "mood": "indicative",
+      "tense": "future",
+      "pos": "vmif3s0",
+      "lem": "pasar",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "func": "suj",
+        "begins": 0,
+        "arg": "arg1",
+        "tem": "tem",
+        "id": "sn28",
+        "ends": 2,
+        "entityref": "nne"
+      },
+      "postype": "main",
+      "lexicalid": "verb.pasar.9.default",
+      "id": "v8",
+      "person": "3"
+    },
+    {
+      "wd": "a",
+      "id": "s18",
+      "postype": "preposition",
+      "lem": "a",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d12",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "red",
+      "gen": "f",
+      "id": "n26",
+      "pos": "ncfs000",
+      "lem": "red",
+      "sense": "16:03038207",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "eléctrica",
+      "id": "a9",
+      "pos": "aq0fs0",
+      "lem": "eléctrico",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "pública",
+      "id": "a10",
+      "pos": "aq0fs0",
+      "lem": "público",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "de",
+      "id": "s19",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "México",
+      "id": "n27",
+      "pos": "np00000",
+      "lem": "México",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "en_virtud_de",
+      "id": "s20",
+      "postype": "preposition",
+      "lem": "en_virtud_de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "un",
+      "id": "d13",
+      "pos": "di0ms0",
+      "lem": "uno",
+      "gen": "m",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "wd": "acuerdo",
+      "lexicalid": "noun.acuerdo.1.default",
+      "gen": "m",
+      "lem": "acuerdo",
+      "id": "n28",
+      "origin": "deverbal",
+      "pos": "ncms000",
+      "sense": "16:05072418",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s21",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "venta",
+      "iarg0": "agt:entity2",
+      "iarg2": "ben:entity4",
+      "pos": "ncfs000",
+      "lem": "venta",
+      "sense": "16:00721968",
+      "num": "s",
+      "origin": "deverbal",
+      "lexicalid": "noun.venta.2.default",
+      "id": "n29",
+      "gen": "f",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s22",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "energía",
+      "gen": "f",
+      "id": "n30",
+      "pos": "ncfs000",
+      "lem": "energía",
+      "sense": "16:07794689",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s23",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "organization",
+      "wd": "EAA",
+      "id": "n31",
+      "pos": "np00000",
+      "lem": "EAA",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "con",
+      "id": "s24",
+      "postype": "preposition",
+      "lem": "con",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d14",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "ne": "organization",
+      "wd": "Comisión_Federal_de_Electricidad",
+      "id": "n32",
+      "pos": "np00000",
+      "lem": "Comisión_Federal_de_Electricidad",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "(",
+      "punct": "bracket",
+      "id": "f12",
+      "pos": "fpa",
+      "lem": "(",
+      "punctenclose": "open"
+    },
+    {
+      "ne": "organization",
+      "wd": "CFE",
+      "id": "n33",
+      "pos": "np00000",
+      "lem": "CFE",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": ")",
+      "punct": "bracket",
+      "id": "f13",
+      "pos": "fpt",
+      "lem": ")",
+      "punctenclose": "close"
+    },
+    {
+      "wd": "por",
+      "id": "s25",
+      "postype": "preposition",
+      "lem": "por",
+      "pos": "sps00"
+    },
+    {
+      "wd": "una",
+      "id": "d15",
+      "pos": "di0fs0",
+      "lem": "uno",
+      "gen": "f",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "iarg1": "tem:+singleton1",
+      "pos": "ncfs000",
+      "wd": "duración",
+      "lexicalid": "noun.duración.1.default",
+      "gen": "f",
+      "id": "n34",
+      "origin": "deverbal",
+      "lem": "duración",
+      "sense": "16:10859852",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s26",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "id": "z3",
+      "wd": "25",
+      "lem": "25"
+    },
+    {
+      "wd": "años",
+      "gen": "m",
+      "id": "n35",
+      "pos": "ncmp000",
+      "lem": "año",
+      "sense": "16:10917509",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "id": "f14",
+      "wd": ".",
+      "lem": ".",
+      "punct": "period",
+      "pos": "fp"
+    }
+  ],
+  [
+    {
+      "ne": "organization",
+      "wd": "EDF",
+      "id": "n36",
+      "pos": "np00000",
+      "lem": "EDF",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "id": "f15",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "que",
+      "id": "p2",
+      "pos": "pr0cn000",
+      "lem": "que",
+      "gen": "c",
+      "num": "c",
+      "postype": "relative"
+    },
+    {
+      "wd": "no",
+      "id": "r2",
+      "postype": "negative",
+      "lem": "no",
+      "pos": "rn"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "quiso",
+      "mood": "indicative",
+      "tense": "past",
+      "pos": "vmis3s0",
+      "lem": "querer",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "coreftype": "ident",
+        "identdegree": "3",
+        "begins": 2,
+        "entityref": "spec",
+        "arg": "arg0",
+        "tem": "agt",
+        "id": "relatiu2",
+        "ends": 2,
+        "func": "suj",
+        "entity": "entity1"
+      },
+      "postype": "main",
+      "lexicalid": "verb.querer.1.default",
+      "id": "v9",
+      "person": "3"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "revelar",
+      "lexicalid": "verb.revelar.2.default",
+      "mood": "infinitive",
+      "id": "v10",
+      "pos": "vmn0000",
+      "lem": "revelar",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "wd": "cuánto",
+      "id": "p3",
+      "pos": "pt0ms000",
+      "lem": "cuánto",
+      "gen": "m",
+      "num": "s",
+      "postype": "interrogative"
+    },
+    {
+      "lss": "A32.ditransitive-patient-benefactive",
+      "wd": "pagó",
+      "mood": "indicative",
+      "tense": "past",
+      "pos": "vmis3s0",
+      "lem": "pagar",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "coreftype": "ident",
+        "tem": "agt",
+        "elliptic": "yes",
+        "arg": "arg0",
+        "func": "suj",
+        "id": "sn41",
+        "entityref": "spec",
+        "entity": "entity1"
+      },
+      "postype": "main",
+      "lexicalid": "verb.pagar.1.default",
+      "id": "v11",
+      "person": "3"
+    },
+    {
+      "wd": "por",
+      "id": "s27",
+      "postype": "preposition",
+      "lem": "por",
+      "pos": "sps00"
+    },
+    {
+      "coreftype": "ident",
+      "pos": "dp3cs0",
+      "wd": "su",
+      "entityref": "spec",
+      "gen": "c",
+      "postype": "possessive",
+      "person": "3",
+      "lem": "su",
+      "id": "d16",
+      "num": "s",
+      "entity": "entity1"
+    },
+    {
+      "wd": "participación",
+      "lexicalid": "noun.participación.1.default",
+      "gen": "f",
+      "lem": "participación",
+      "id": "n37",
+      "origin": "deverbal",
+      "pos": "ncfs000",
+      "sense": "16:00804778",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "mayoritaria",
+      "id": "a11",
+      "pos": "aq0fs0",
+      "lem": "mayoritario",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "en",
+      "id": "s28",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "ne": "organization",
+      "wd": "EAA",
+      "id": "n38",
+      "pos": "np00000",
+      "lem": "EAA",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "id": "f16",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "intervendrá",
+      "mood": "indicative",
+      "tense": "future",
+      "pos": "vmif3s0",
+      "lem": "intervenir",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "coreftype": "ident",
+        "ne": "organization",
+        "ends": 14,
+        "begins": 0,
+        "arg": "arg0",
+        "tem": "agt",
+        "id": "sn39",
+        "func": "suj",
+        "entityref": "ne",
+        "entity": "entity1"
+      },
+      "postype": "main",
+      "lexicalid": "verb.intervenir.1.default",
+      "id": "v12",
+      "person": "3"
+    },
+    {
+      "wd": "como",
+      "id": "c3",
+      "postype": "subordinating",
+      "lem": "como",
+      "pos": "cs"
+    },
+    {
+      "wd": "asistente",
+      "gen": "c",
+      "id": "n39",
+      "pos": "nccs000",
+      "lem": "asistente",
+      "sense": "16:cs1",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "en",
+      "id": "s29",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d17",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "pos": "ncfs000",
+      "wd": "construcción",
+      "lexicalid": "noun.construcción.2.default",
+      "gen": "f",
+      "lem": "construcción",
+      "id": "n40",
+      "origin": "deverbal",
+      "iarg0": "agt:entity2",
+      "sense": "16:00585093",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s30",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "Altamira_2",
+      "id": "n41",
+      "pos": "np00000",
+      "lem": "Altamira_2",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "y",
+      "id": "c4",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "id": "f17",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "id": "r3",
+      "wd": "posteriormente",
+      "lem": "posteriormente",
+      "pos": "rg"
+    },
+    {
+      "id": "f18",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "se",
+      "person": "3",
+      "pos": "p0300000",
+      "lem": "él",
+      "id": "p4",
+      "num": "c",
+      "gen": "c"
+    },
+    {
+      "lss": "A22.transitive-agentive-theme",
+      "wd": "encargará",
+      "mood": "indicative",
+      "tense": "future",
+      "pos": "vmif3s0",
+      "lem": "encargar",
+      "is_verb": true,
+      "suj": {
+        "coreftype": "ident",
+        "tem": "agt",
+        "elliptic": "yes",
+        "arg": "arg0",
+        "func": "suj",
+        "id": "sn47",
+        "entityref": "nne",
+        "entity": "entity1"
+      },
+      "postype": "main",
+      "num": "s",
+      "id": "v13",
+      "person": "3"
+    },
+    {
+      "wd": "de",
+      "id": "s31",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "coreftype": "ident",
+      "lss": "A21.transitive-agentive-patient",
+      "pos": "vmn0000",
+      "wd": "explotarla",
+      "lexicalid": "verb.explotar.2.default",
+      "mood": "infinitive",
+      "id": "v14",
+      "entity": "entity3",
+      "lem": "explotar",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "wd": "como",
+      "id": "c5",
+      "postype": "subordinating",
+      "lem": "como",
+      "pos": "cs"
+    },
+    {
+      "wd": "principal",
+      "id": "a12",
+      "pos": "aq0cs0",
+      "lem": "principal",
+      "gen": "c",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "accionista",
+      "id": "a13",
+      "pos": "aq0cs0",
+      "lem": "accionista",
+      "gen": "c",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "id": "f19",
+      "wd": ".",
+      "lem": ".",
+      "punct": "period",
+      "pos": "fp"
+    }
+  ],
+  [
+    {
+      "ne": "organization",
+      "wd": "EDF",
+      "id": "n42",
+      "pos": "np00000",
+      "lem": "EDF",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "y",
+      "id": "c6",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "ne": "organization",
+      "wd": "Mitsubishi",
+      "id": "n43",
+      "pos": "np00000",
+      "lem": "Mitsubishi",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "lss": "A22.transitive-agentive-theme",
+      "wd": "participaron",
+      "mood": "indicative",
+      "tense": "past",
+      "pos": "vmis3p0",
+      "lem": "participar",
+      "is_verb": true,
+      "num": "p",
+      "suj": {
+        "coreftype": "ident",
+        "func": "suj",
+        "begins": 0,
+        "arg": "arg0",
+        "tem": "agt",
+        "id": "sn49",
+        "ends": 2,
+        "complex": "yes",
+        "entity": "entity1+entity7"
+      },
+      "postype": "main",
+      "lexicalid": "verb.participar.1.default",
+      "id": "v15",
+      "person": "3"
+    },
+    {
+      "wd": "en",
+      "id": "s32",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "ne": "date",
+      "id": "w3",
+      "wd": "1998",
+      "lem": "[??:??/??/1998:??.??]"
+    },
+    {
+      "wd": "en",
+      "id": "s33",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d18",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "licitación",
+      "lexicalid": "noun.licitación.2.default",
+      "gen": "f",
+      "lem": "licitación",
+      "id": "n44",
+      "origin": "deverbal",
+      "pos": "ncfs000",
+      "sense": "16:05049880",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s34",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "wd": "licencias",
+      "gen": "f",
+      "id": "n45",
+      "pos": "ncfp000",
+      "lem": "licencia",
+      "sense": "16:04916758",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "wd": "para",
+      "id": "s35",
+      "postype": "preposition",
+      "lem": "para",
+      "pos": "sps00"
+    },
+    {
+      "lss": "A21.transitive-agentive-patient",
+      "wd": "construir",
+      "lexicalid": "verb.construir.1.default",
+      "mood": "infinitive",
+      "id": "v16",
+      "pos": "vmn0000",
+      "lem": "construir",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "wd": "centrales",
+      "gen": "f",
+      "id": "n46",
+      "pos": "ncfp000",
+      "lem": "central",
+      "sense": "16:03168190",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "wd": "eléctricas",
+      "id": "a14",
+      "pos": "aq0fp0",
+      "lem": "eléctrico",
+      "gen": "f",
+      "num": "p",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "en",
+      "id": "s36",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "México",
+      "id": "n47",
+      "pos": "np00000",
+      "lem": "México",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "y",
+      "id": "c7",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "wd": "se",
+      "person": "3",
+      "pos": "p0300000",
+      "lem": "él",
+      "id": "p5",
+      "num": "c",
+      "gen": "c"
+    },
+    {
+      "lss": "C21.state-attributive",
+      "wd": "quedaron",
+      "mood": "indicative",
+      "tense": "past",
+      "pos": "vmis3p0",
+      "lem": "quedar",
+      "is_verb": true,
+      "num": "p",
+      "suj": {
+        "coreftype": "ident",
+        "tem": "tem",
+        "elliptic": "yes",
+        "arg": "arg1",
+        "func": "suj",
+        "id": "sn55",
+        "entityref": "spec",
+        "entity": "entity1+entity7"
+      },
+      "postype": "main",
+      "lexicalid": "verb.quedar.2.default",
+      "id": "v17",
+      "person": "3"
+    },
+    {
+      "wd": "con",
+      "id": "s37",
+      "postype": "preposition",
+      "lem": "con",
+      "pos": "sps00"
+    },
+    {
+      "wd": "dos",
+      "id": "p6",
+      "pos": "pn0cp000",
+      "lem": "dos",
+      "gen": "c",
+      "num": "p",
+      "postype": "numeral"
+    },
+    {
+      "wd": "cada",
+      "id": "d19",
+      "pos": "di0cs0",
+      "lem": "cada",
+      "gen": "c",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "wd": "una",
+      "id": "p7",
+      "pos": "pi0fs000",
+      "lem": "uno",
+      "gen": "f",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "id": "f20",
+      "wd": ":",
+      "lem": ":",
+      "punct": "colon",
+      "pos": "fd"
+    },
+    {
+      "ne": "location",
+      "wd": "Río_Bravo",
+      "id": "n48",
+      "pos": "np00000",
+      "lem": "Río_Bravo",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "y",
+      "id": "c8",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "ne": "location",
+      "wd": "Saltillo",
+      "id": "n49",
+      "pos": "np00000",
+      "lem": "Saltillo",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "para",
+      "id": "s38",
+      "postype": "preposition",
+      "lem": "para",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d20",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "compañía",
+      "gen": "f",
+      "id": "n50",
+      "pos": "ncfs000",
+      "lem": "compañía",
+      "sense": "16:06006256",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "francesa",
+      "id": "a15",
+      "pos": "aq0fs0",
+      "lem": "francés",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "y",
+      "id": "c9",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "ne": "location",
+      "wd": "Altamira",
+      "id": "n51",
+      "pos": "np00000",
+      "lem": "Altamira",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "y",
+      "id": "c10",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "ne": "location",
+      "wd": "Tuxpán",
+      "id": "n52",
+      "pos": "np00000",
+      "lem": "Tuxpán",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "wd": "para",
+      "id": "s39",
+      "postype": "preposition",
+      "lem": "para",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d21",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "japonesa",
+      "id": "a16",
+      "pos": "aq0fs0",
+      "lem": "japonés",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "id": "f21",
+      "wd": ".",
+      "lem": ".",
+      "punct": "period",
+      "pos": "fp"
+    }
+  ],
+  [
+    {
+      "ne": "organization",
+      "wd": "EDF",
+      "id": "n53",
+      "pos": "np00000",
+      "lem": "EDF",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "lss": "C21.state-attributive",
+      "wd": "tiene",
+      "mood": "indicative",
+      "tense": "present",
+      "pos": "vmip3s0",
+      "lem": "tener",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "coreftype": "ident",
+        "ne": "organization",
+        "ends": 0,
+        "begins": 0,
+        "arg": "arg1",
+        "tem": "tem",
+        "id": "sn63",
+        "func": "suj",
+        "entityref": "ne",
+        "entity": "entity1"
+      },
+      "postype": "main",
+      "lexicalid": "verb.tener.1.default",
+      "id": "v18",
+      "person": "3"
+    },
+    {
+      "posfunction": "participle",
+      "wd": "previsto",
+      "id": "a17",
+      "pos": "aq0msp",
+      "lem": "previsto",
+      "gen": "m",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "lss": "A31.ditransitive-patient-locative",
+      "wd": "invertir",
+      "lexicalid": "verb.invertir.2.default",
+      "mood": "infinitive",
+      "id": "v19",
+      "pos": "vmn0000",
+      "lem": "invertir",
+      "is_verb": true,
+      "postype": "main"
+    },
+    {
+      "ne": "number",
+      "id": "z4",
+      "wd": "194",
+      "lem": "194"
+    },
+    {
+      "wd": "millones",
+      "gen": "m",
+      "id": "n54",
+      "pos": "ncmp000",
+      "lem": "millón",
+      "sense": "16:09902865",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s40",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "wd": "euros",
+      "id": "z5",
+      "pos": "zm",
+      "lem": "euro",
+      "postype": "currency"
+    },
+    {
+      "wd": "(",
+      "punct": "bracket",
+      "id": "f22",
+      "pos": "fpa",
+      "lem": "(",
+      "punctenclose": "open"
+    },
+    {
+      "ne": "number",
+      "id": "z6",
+      "wd": "186",
+      "lem": "186"
+    },
+    {
+      "wd": "millones",
+      "gen": "m",
+      "id": "n55",
+      "pos": "ncmp000",
+      "lem": "millón",
+      "sense": "16:09902865",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s41",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "wd": "dólares",
+      "id": "z7",
+      "pos": "zm",
+      "lem": "dólar",
+      "postype": "currency"
+    },
+    {
+      "wd": ")",
+      "punct": "bracket",
+      "id": "f23",
+      "pos": "fpt",
+      "lem": ")",
+      "punctenclose": "close"
+    },
+    {
+      "wd": "en",
+      "id": "s42",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "wd": "la",
+      "id": "d22",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "central",
+      "gen": "f",
+      "id": "n56",
+      "pos": "ncfs000",
+      "lem": "central",
+      "sense": "16:03168190",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s43",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "Río_Bravo",
+      "id": "n57",
+      "pos": "np00000",
+      "lem": "Río_Bravo",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "id": "f24",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "con",
+      "id": "s44",
+      "postype": "preposition",
+      "lem": "con",
+      "pos": "sps00"
+    },
+    {
+      "wd": "una",
+      "id": "d23",
+      "pos": "di0fs0",
+      "lem": "uno",
+      "gen": "f",
+      "num": "s",
+      "postype": "indefinite"
+    },
+    {
+      "wd": "potencia",
+      "gen": "f",
+      "id": "n58",
+      "pos": "ncfs000",
+      "lem": "potencia",
+      "sense": "16:cs1",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s45",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "id": "z8",
+      "wd": "495",
+      "lem": "495"
+    },
+    {
+      "wd": "megavatios",
+      "gen": "m",
+      "id": "n59",
+      "pos": "ncmp000",
+      "lem": "megavatio",
+      "sense": "16:09809646",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "id": "f25",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "y",
+      "id": "c11",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "ne": "number",
+      "id": "z9",
+      "wd": "134",
+      "lem": "134"
+    },
+    {
+      "wd": "millones",
+      "gen": "m",
+      "id": "n60",
+      "pos": "ncmp000",
+      "lem": "millón",
+      "sense": "16:09902865",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s46",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "wd": "euros",
+      "id": "z10",
+      "pos": "zm",
+      "lem": "euro",
+      "postype": "currency"
+    },
+    {
+      "wd": "(",
+      "punct": "bracket",
+      "id": "f26",
+      "pos": "fpa",
+      "lem": "(",
+      "punctenclose": "open"
+    },
+    {
+      "ne": "number",
+      "id": "z11",
+      "wd": "28",
+      "lem": "28"
+    },
+    {
+      "wd": "millones",
+      "gen": "m",
+      "id": "n61",
+      "pos": "ncmp000",
+      "lem": "millón",
+      "sense": "16:09902865",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "wd": "de",
+      "id": "s47",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "wd": "dólares",
+      "id": "z12",
+      "pos": "zm",
+      "lem": "dólar",
+      "postype": "currency"
+    },
+    {
+      "wd": ")",
+      "punct": "bracket",
+      "id": "f27",
+      "pos": "fpt",
+      "lem": ")",
+      "punctenclose": "close"
+    },
+    {
+      "wd": "en",
+      "id": "s48",
+      "postype": "preposition",
+      "lem": "en",
+      "pos": "sps00"
+    },
+    {
+      "ne": "location",
+      "wd": "Saltillo",
+      "id": "n62",
+      "pos": "np00000",
+      "lem": "Saltillo",
+      "sense": "16:cs1",
+      "postype": "proper"
+    },
+    {
+      "id": "f28",
+      "wd": ",",
+      "lem": ",",
+      "punct": "comma",
+      "pos": "fc"
+    },
+    {
+      "wd": "que",
+      "id": "p8",
+      "pos": "pr0cn000",
+      "lem": "que",
+      "gen": "c",
+      "num": "c",
+      "postype": "relative"
+    },
+    {
+      "wd": "como",
+      "id": "c12",
+      "postype": "subordinating",
+      "lem": "como",
+      "pos": "cs"
+    },
+    {
+      "wd": "la",
+      "id": "d24",
+      "pos": "da0fs0",
+      "lem": "el",
+      "gen": "f",
+      "num": "s",
+      "postype": "article"
+    },
+    {
+      "wd": "primera",
+      "id": "a18",
+      "pos": "ao0fs0",
+      "lem": "primero",
+      "gen": "f",
+      "num": "s",
+      "postype": "ordinal"
+    },
+    {
+      "lss": "C11.state-existential",
+      "wd": "funcionará",
+      "mood": "indicative",
+      "tense": "future",
+      "pos": "vmif3s0",
+      "lem": "funcionar",
+      "is_verb": true,
+      "num": "s",
+      "suj": {
+        "coreftype": "ident",
+        "identdegree": "3",
+        "begins": 41,
+        "entityref": "spec",
+        "arg": "arg1",
+        "tem": "tem",
+        "id": "relatiu3",
+        "ends": 41,
+        "func": "suj",
+        "entity": "entity11"
+      },
+      "postype": "main",
+      "lexicalid": "verb.funcionar.1.default",
+      "id": "v20",
+      "person": "3"
+    },
+    {
+      "wd": "con",
+      "id": "s49",
+      "postype": "preposition",
+      "lem": "con",
+      "pos": "sps00"
+    },
+    {
+      "wd": "gas",
+      "gen": "m",
+      "id": "n63",
+      "pos": "ncms000",
+      "lem": "gas",
+      "sense": "16:10671811",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "wd": "natural",
+      "id": "a19",
+      "pos": "aq0cs0",
+      "lem": "natural",
+      "gen": "c",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "wd": "y",
+      "id": "c13",
+      "postype": "coordinating",
+      "lem": "y",
+      "pos": "cc"
+    },
+    {
+      "coreftype": "ident",
+      "wd": "cuya",
+      "gen": "f",
+      "id": "p9",
+      "pos": "pr0fs000",
+      "lem": "cuyo",
+      "entity": "entity10",
+      "num": "s",
+      "postype": "relative"
+    },
+    {
+      "wd": "potencia",
+      "gen": "f",
+      "id": "n64",
+      "pos": "ncfs000",
+      "lem": "potencia",
+      "sense": "16:cs1",
+      "num": "s",
+      "postype": "common"
+    },
+    {
+      "posfunction": "participle",
+      "wd": "prevista",
+      "id": "a20",
+      "pos": "aq0fsp",
+      "lem": "previsto",
+      "gen": "f",
+      "num": "s",
+      "postype": "qualificative"
+    },
+    {
+      "lss": "C21.state-attributive",
+      "wd": "es",
+      "mood": "indicative",
+      "tense": "present",
+      "pos": "vsip3s0",
+      "lem": "ser",
+      "is_verb": true,
+      "suj": {
+        "func": "suj",
+        "begins": 50,
+        "arg": "arg1",
+        "tem": "tem",
+        "id": "sn79",
+        "ends": 52,
+        "entityref": "nne"
+      },
+      "postype": "semiauxiliary",
+      "num": "s",
+      "id": "v21",
+      "person": "3"
+    },
+    {
+      "wd": "de",
+      "id": "s50",
+      "postype": "preposition",
+      "lem": "de",
+      "pos": "sps00"
+    },
+    {
+      "ne": "number",
+      "id": "z13",
+      "wd": "247",
+      "lem": "247"
+    },
+    {
+      "wd": "megavatios",
+      "gen": "m",
+      "id": "n65",
+      "pos": "ncmp000",
+      "lem": "megavatio",
+      "sense": "16:09809646",
+      "num": "p",
+      "postype": "common"
+    },
+    {
+      "id": "f29",
+      "wd": ".",
+      "lem": ".",
+      "punct": "period",
+      "pos": "fp"
+    }
+  ]
+]

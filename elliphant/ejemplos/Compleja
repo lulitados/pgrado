@@ -1,0 +1,62 @@
+Compleja
+
+[Un peligro surge de la escisión de bueno y malo, en cuyo caso, el matrimonio mantiene el sentido de maldad en el cónyuge "descarriado" y la bondad en el cónyuge que ha sido traicionado.]
+
+grup-verb/top/(surge surgir VMIP3S0 2) [
+  sn/subj/(peligro peligro NCMS000 1) [
+    espec-ms/spec/(Un uno DI0MS0 0)
+  ]
+  sp-de/adjt/(de de SP 3) [
+    sn/comp/(escisión escisión NCFS000 5) [
+      espec-fs/spec/(la el DA0FS0 4)
+    ]
+  ]
+  grup-sp/adjt/(de de SP 6) [
+    s-a-ms/comp/(bueno bueno AQ0MS00 7)
+  ]
+  coor-sa/modnomatch/(y y CC 8) [
+    s-adj/coor/(malo malo AQ0MS00 9)
+  ]
+  Fc/punc/(, , Fc 10)
+  relatiu/modnomatch/(en en SP 11) [
+    cuyo-ms/spec/(cuyo cuyo PR0MS00 12)
+    grup-nom-ms/modnomatch/(caso caso NCMS000 13)
+  ]
+  Fc/punc/(, , Fc 14)
+  grup-verb/modnomatch/(mantiene mantener VMIP3S0 17) [
+    sn/subj/(matrimonio matrimonio NCMS000 16) [
+      espec-ms/spec/(el el DA0MS0 15)
+    ]
+    sn/dobj/(sentido sentido NCMS000 19) [
+      espec-ms/spec/(el el DA0MS0 18)
+      sp-de/mod/(de de SP 20) [
+        sn/comp/(maldad maldad NCFS000 21)
+      ]
+    ]
+    grup-sp/adjt/(en en SP 22) [
+      sn/comp/(cónyuge cónyuge NCCS000 24) [
+        espec-ms/spec/(el el DA0MS0 23)
+        s-a-ms/mod/(descarriado descarriar VMP00SM 26) [
+          Fe/modnomatch/(" " Fe 25)
+          Fe/modnomatch/(" " Fe 27)
+        ]
+      ]
+    ]
+    coor-n/modnomatch/(y y CC 28) [
+      sn/coor/(bondad bondad NCFS000 30) [
+        espec-fs/spec/(la el DA0FS0 29)
+      ]
+    ]
+    grup-sp/adjt/(en en SP 31) [
+      sn/comp/(cónyuge cónyuge NCCS000 33) [
+        espec-ms/spec/(el el DA0MS0 32)
+      ]
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN00 34)
+  verb-pass/modnomatch/(traicionado traicionar VMP00SM 37) [
+    vaux/aux/(ha haber VAIP3S0 35)
+    parti-ser/aux/(sido ser VSP00SM 36)
+    F-term/punc/(. . Fp 38)
+  ]
+]

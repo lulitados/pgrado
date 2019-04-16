@@ -1,0 +1,54 @@
+Verbo
+La profesora de la niña, en una conversación informal y hablando de otros alumnos, nos comenta que María lleva sin aparecer por el colegio prácticamente todo el curso.
+
+[La profesora de la niña, en una conversación informal y hablando de otros alumnos, nos comenta [que María lleva sin aparecer por el colegio prácticamente todo el curso]].
+
+grup-verb/top/(comenta comentar VMIP3S0) [
+  patons/mphes/(nos nos PP1CP00)
+  sn/subj/(profesora profesor NCFS000) [
+    espec-fs/spec/(La el DA0FS0)
+    sp-de/mod/(de de SP) [
+      sn/comp/(niña niño NCFS000) [
+        espec-fs/spec/(la el DA0FS0)
+      ]
+    ]
+    Fc/punc/(, , Fc)
+    grup-sp/mod/(en en SP) [
+      sn/comp/(conversación conversación NCFS000) [
+        espec-fs/spec/(una uno DI0FS0)
+        s-a-fs/mod/(informal informal AQ0CS00)
+      ]
+    ]
+    coor-ger/modnomatch/(y y CC) [
+      subord-ger/coor/(hablando hablar VMG0000) [
+        sp-de/pobj/(de de SP) [
+          sn/comp/(alumnos alumno NCMP000) [
+            espec-mp/spec/(otros otro DI0MP0)
+          ]
+        ]
+      ]
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  subord/dobj/(que que CS) [
+    grup-verb/comp/(lleva llevar VMIP3S0) [
+      sn/subj/(María maría NP00000)
+      grup-sp-inf/pobj/(sin sin SP) [
+        grup-verb-inf/comp/(aparecer aparecer VMN0000) [
+          grup-sp/pobj/(por por SP) [
+            sn/comp/(colegio colegio NCMS000) [
+              espec-ms/spec/(el el DA0MS0)
+            ]
+          ]
+        ]
+      ]
+      sadv/adjt/(prácticamente prácticamente RG)
+      sn/dobj/(curso curso NCMS000) [
+        espec-ms/spec/(el el DA0MS0) [
+          indef-ms/spec/(todo todo DI0MS0)
+        ]
+      ]
+    ]
+  ]
+  F-term/punc/(. . Fp)
+]

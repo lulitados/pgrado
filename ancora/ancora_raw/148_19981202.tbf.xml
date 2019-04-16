@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lng='es' id='article341'>
+  <sentence id='sentence3662'>
+    <sn id='sn31470' complex='yes' tem='agt' func='suj' arg='arg0'>
+      <grup.nom id='grup.nom30072' coord='yes'>
+        <grup.nom num='s' gen='m' id='grup.nom30073'>
+          <n wd='Mel_Gibson' ne='person' postype='proper' pos='np00000' lem='Mel_Gibson' id='n25988'/>
+        </grup.nom>
+        <conj id='conj5275' conjunctiontype='coordinating'>
+          <c id='c5432' postype='coordinating' wd='y' lem='y' pos='cc'/>
+        </conj>
+        <grup.nom num='s' gen='f' id='grup.nom30074'>
+          <n wd='Michelle_Pfeiffer' ne='person' postype='proper' pos='np00000' lem='Michelle_Pfeiffer' id='n25989'/>
+        </grup.nom>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb8903'>
+      <v wd='protagonizan' mood='indicative' postype='main' lexicalid='verb.protagonizar.1.default' lem='protagonizar' pos='vmip3p0' person='3' num='p' tense='present' lss='A21.transitive-agentive-patient' id='v12650'/>
+    </grup.verb>
+    <sn tem='pat' ne='other' entity='entity1' entityref='ne' func='cd' arg='arg1' id='sn31471'>
+      <grup.nom id='grup.nom30075'>
+        <n wd='Conexión_Tequila' ne='other' postype='proper' pos='np00000' lem='Conexión_Tequila' id='n25990'/>
+        <inc id='inc105'>
+          <S verbless='yes' id='S10540'>
+            <f wd='(' punctenclose='open' lem='(' pos='fpa' punct='bracket' id='f13752'/>
+            <sn id='sn31472' entityref='ne' ne='other'>
+              <grup.nom id='grup.nom30076'>
+                <n wd='TVE-1' ne='other' postype='proper' pos='np00000' lem='tve-1' id='n25991'/>
+              </grup.nom>
+            </sn>
+            <sn id='sn31473' entityref='ne' ne='date'>
+              <f id='f13753' punct='comma' wd=',' lem=',' pos='fc'/>
+              <grup.nom id='grup.nom30077'>
+                <w id='w658' wd='21.50' lem='[??:??/??/??:21.50]' ne='date'/>
+              </grup.nom>
+            </sn>
+            <f wd=')' punctenclose='close' lem=')' pos='fpt' punct='bracket' id='f13754'/>
+          </S>
+        </inc>
+        <sn coreftype='pred' corefsubtype='indefinit' id='sn31474' entity='entity1'>
+          <f id='f13755' punct='comma' wd=',' lem=',' pos='fc'/>
+          <grup.nom num='s' gen='m' id='grup.nom30078'>
+            <n wd='filme' postype='common' pos='ncms000' lem='filme' num='s' sense='16:04960631' id='n25992' gen='m'/>
+            <S impersonal='yes' clausetype='participle' id='S10541'>
+              <participi id='participi1347'>
+                <a wd='situado' postype='qualificative' pos='aq0msp' lem='situado' posfunction='participle' num='s' lss='B22.unaccusative-passive-transitive' id='a7565' gen='m'/>
+              </participi>
+              <sp id='sp17165' tem='loc' func='cc' arg='arg2'>
+                <prep id='prep16774'>
+                  <s id='s16835' postype='preposition' wd='en' lem='en' pos='sps00'/>
+                </prep>
+                <sn homophoricDD='yes' entityref='nne' id='sn31475'>
+                  <spec num='s' gen='f' id='spec16246'>
+                    <d wd='la' postype='article' pos='da0fs0' lem='el' num='s' id='d15893' gen='f'/>
+                  </spec>
+                  <grup.nom num='s' gen='f' id='grup.nom30079'>
+                    <n wd='frontera' postype='common' pos='ncfs000' lem='frontera' num='s' sense='16:06279059' id='n25993' gen='f'/>
+                    <sp id='sp17166'>
+                      <prep id='prep16775'>
+                        <s id='s16836' postype='preposition' wd='entre' lem='entre' pos='sps00'/>
+                      </prep>
+                      <sn id='sn31476' coord='yes'>
+                        <sn homophoricDD='yes' entityref='nne' id='sn31477'>
+                          <spec num='s' gen='m' id='spec16247'>
+                            <d wd='el' postype='article' pos='da0ms0' lem='el' num='s' id='d15894' gen='m'/>
+                          </spec>
+                          <grup.nom num='s' gen='m' id='grup.nom30080'>
+                            <n wd='melodrama' postype='common' pos='ncms000' lem='melodrama' num='s' sense='16:05263816' id='n25994' gen='m'/>
+                            <s.a num='s' gen='m' id='s.a5674'>
+                              <grup.a num='s' gen='m' id='grup.a6302'>
+                                <a wd='sentimental' postype='qualificative' pos='aq0cs0' lem='sentimental' num='s' id='a7566' gen='c'/>
+                              </grup.a>
+                            </s.a>
+                            <sp id='sp17167'>
+                              <f id='f13756' punct='hyphen' wd='-' lem='-' pos='fg'/>
+                              <f id='f13757' punct='hyphen' wd='-' lem='-' pos='fg'/>
+                              <prep id='prep16776'>
+                                <s id='s16837' postype='preposition' wd='con' lem='con' pos='sps00'/>
+                              </prep>
+                              <sn homophoricDD='yes' entityref='nne' id='sn31478'>
+                                <spec num='s' gen='f' id='spec16248'>
+                                  <d wd='la' postype='article' pos='da0fs0' lem='el' num='s' id='d15895' gen='f'/>
+                                </spec>
+                                <grup.nom num='s' gen='f' id='grup.nom30081'>
+                                  <n origin='deverbal' wd='inclusión' postype='common' lexicalid='noun.inclusión.2.default' lem='inclusión' iarg2='loc:entity1' pos='ncfs000' num='s' sense='16:00239677' id='n25995' gen='f'/>
+                                  <sp id='sp17168' tem='pat' func='cn' arg='arg1'>
+                                    <prep id='prep16777'>
+                                      <s id='s16838' postype='preposition' wd='de' lem='de' pos='sps00'/>
+                                    </prep>
+                                    <sn id='sn31479' entityref='nne' entity='entity2'>
+                                      <grup.nom num='p' gen='f' id='grup.nom30082'>
+                                        <n wd='escenas' postype='common' pos='ncfp000' lem='escena' num='p' sense='16:05258594' id='n25996' gen='f'/>
+                                        <s.a num='p' gen='f' id='s.a5675'>
+                                          <grup.a num='p' gen='f' id='grup.a6303'>
+                                            <a wd='amorosas' postype='qualificative' pos='aq0fp0' lem='amoroso' num='p' id='a7567' gen='f'/>
+                                          </grup.a>
+                                        </s.a>
+                                        <S clausetype='relative' id='S10542'>
+                                          <relatiu tem='cau' coreftype='ident' entity='entity2' identdegree='3' func='suj' arg='arg0' id='relatiu1960' entityref='nne'>
+                                            <p wd='que' postype='relative' pos='pr0cn000' lem='que' num='c' id='p4548' gen='c'/>
+                                          </relatiu>
+                                          <grup.verb id='grup.verb8904'>
+                                            <v wd='escandalizaron' mood='indicative' postype='main' lexicalid='verb.escandalizar.1.default' lem='escandalizar' pos='vmis3p0' person='3' num='p' tense='past' lss='A11.transitive-causative' id='v12651'/>
+                                          </grup.verb>
+                                          <sp id='sp17169' tem='loc' func='cc' arg='argM'>
+                                            <prep id='prep16778'>
+                                              <s id='s16839' postype='preposition' wd='en' lem='en' pos='sps00'/>
+                                            </prep>
+                                            <sn id='sn31480' entityref='ne' ne='location'>
+                                              <grup.nom id='grup.nom30083'>
+                                                <n wd='EEUU' ne='location' postype='proper' pos='np00000' lem='EEUU' id='n25997'/>
+                                              </grup.nom>
+                                            </sn>
+                                          </sp>
+                                        </S>
+                                      </grup.nom>
+                                    </sn>
+                                  </sp>
+                                </grup.nom>
+                              </sn>
+                              <f id='f13758' punct='hyphen' wd='-' lem='-' pos='fg'/>
+                              <f id='f13759' punct='hyphen' wd='-' lem='-' pos='fg'/>
+                            </sp>
+                          </grup.nom>
+                        </sn>
+                        <conj id='conj5276' conjunctiontype='coordinating'>
+                          <c id='c5433' postype='coordinating' wd='y' lem='y' pos='cc'/>
+                        </conj>
+                        <sn homophoricDD='yes' entityref='nne' id='sn31481'>
+                          <spec num='s' gen='m' id='spec16249'>
+                            <d wd='el' postype='article' pos='da0ms0' lem='el' num='s' id='d15896' gen='m'/>
+                          </spec>
+                          <grup.nom num='s' gen='m' id='grup.nom30084'>
+                            <n origin='deverbal' wd='relato' postype='common' lexicalid='noun.relato.1.default' pos='ncms000' lem='relato' num='s' sense='16:04802123' id='n25998' gen='m'/>
+                            <s.a num='s' gen='m' func='cn' id='s.a5676'>
+                              <grup.a num='s' gen='m' id='grup.a6304'>
+                                <a wd='policiaco' postype='qualificative' pos='aq0ms0' lem='policiaco' num='s' id='a7568' gen='m'/>
+                              </grup.a>
+                            </s.a>
+                          </grup.nom>
+                        </sn>
+                      </sn>
+                    </sp>
+                  </grup.nom>
+                </sn>
+              </sp>
+            </S>
+          </grup.nom>
+        </sn>
+      </grup.nom>
+    </sn>
+    <f id='f13760' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+</article>

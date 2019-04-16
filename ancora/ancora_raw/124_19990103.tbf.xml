@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lng='es' id='article200'>
+  <sentence id='sentence2090'>
+    <sn tem='tem' ne='person' entity='entity1' entityref='ne' func='suj' arg='arg1' id='sn18436'>
+      <spec num='s' gen='f' id='spec9651'>
+        <d wd='La' postype='article' pos='da0fs0' lem='el' num='s' id='d9479' gen='f'/>
+      </spec>
+      <grup.nom num='s' gen='f' id='grup.nom17623'>
+        <n wd='top_model' postype='common' pos='nccs000' lem='top_model' num='s' sense='16:50001417' id='n15276' gen='c'/>
+        <s.a num='s' gen='f' id='s.a3283'>
+          <grup.a num='s' gen='f' id='grup.a3651'>
+            <a wd='argentina' postype='qualificative' pos='aq0fs0' lem='argentino' num='s' id='a4411' gen='f'/>
+          </grup.a>
+        </s.a>
+        <sn id='sn18437' entityref='ne' ne='person'>
+          <grup.nom num='s' gen='f' id='grup.nom17624'>
+            <n wd='Valeria_Mazza' ne='person' postype='proper' pos='np00000' lem='Valeria_Mazza' id='n15277'/>
+          </grup.nom>
+        </sn>
+        <S clausetype='relative' id='S6110'>
+          <f id='f7931' punct='comma' wd=',' lem=',' pos='fc'/>
+          <relatiu tem='agt' coreftype='ident' entity='entity1' identdegree='3' func='suj' arg='arg0' id='relatiu1128' entityref='spec'>
+            <p wd='que' postype='relative' pos='pr0cn000' lem='que' num='c' id='p2586' gen='c'/>
+          </relatiu>
+          <grup.verb id='grup.verb5126'>
+            <v wd='contrajo' mood='indicative' postype='main' lexicalid='verb.contraer.1.default' lem='contraer' pos='vmis3s0' person='3' num='s' tense='past' lss='A21.transitive-agentive-patient' id='v7388'/>
+          </grup.verb>
+          <sn tem='pat' id='sn18438' entityref='lex' func='cd' arg='arg1'>
+            <grup.nom num='s' gen='m' id='grup.nom17625'>
+              <n wd='matrimonio' postype='common' pos='ncms000' lem='matrimonio' num='s' sense='16:10061309' id='n15278' gen='m'/>
+            </grup.nom>
+          </sn>
+          <sadv id='sadv1463' tem='tmp' func='cc' arg='argM'>
+            <grup.adv id='grup.adv1439'>
+              <r id='r2111' wd='recientemente' lem='recientemente' pos='rg'/>
+            </grup.adv>
+          </sadv>
+          <f id='f7932' punct='comma' wd=',' lem=',' pos='fc'/>
+        </S>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb5127'>
+      <v wd='es' mood='indicative' postype='semiauxiliary' pos='vsip3s0' lem='ser' person='3' num='s' tense='present' lss='C21.state-attributive' id='v7389'/>
+    </grup.verb>
+    <sn tem='atr' coreftype='pred' entity='entity1' corefsubtype='indefinit' func='atr' arg='arg2' id='sn18439'>
+      <grup.nom num='s' gen='f' id='grup.nom17626'>
+        <p wd='una' postype='indefinite' pos='pi0fs000' lem='uno' num='s' id='p2587' gen='f'/>
+        <sp id='sp10278'>
+          <prep id='prep10037'>
+            <s id='s10083' postype='preposition' wd='de' lem='de' pos='sps00'/>
+          </prep>
+          <sn homophoricDD='yes' entityref='nne' id='sn18440'>
+            <spec num='p' gen='f' id='spec9652'>
+              <d wd='las' postype='article' pos='da0fp0' lem='el' num='p' id='d9480' gen='f'/>
+            </spec>
+            <grup.nom num='p' gen='f' id='grup.nom17627'>
+              <n wd='invitadas' postype='common' pos='ncfp000' lem='invitada' num='p' sense='16:cs2' id='n15279' gen='f'/>
+              <s.a num='p' gen='f' id='s.a3284'>
+                <grup.a num='p' gen='f' id='grup.a3652'>
+                  <a wd='especiales' postype='qualificative' pos='aq0cp0' lem='especial' num='p' id='a4412' gen='c'/>
+                </grup.a>
+              </s.a>
+              <sp id='sp10279'>
+                <prep id='prep10038'>
+                  <s wd='del' postype='preposition' contracted='yes' pos='spcms' lem='del' num='s' id='s10084' gen='m'/>
+                </prep>
+                <sn id='sn18441' ne='other' entityref='ne' entity='entity2'>
+                  <grup.nom num='s' gen='m' id='grup.nom17628'>
+                    <n wd='programa' postype='common' pos='ncms000' lem='programa' num='s' sense='16:04964806' id='n15280' gen='m'/>
+                    <sn id='sn18442'>
+                      <sn id='sn18443' entityref='ne' ne='other'>
+                        <grup.nom id='grup.nom17629'>
+                          <n wd='Ja_hi_som!' ne='other' postype='proper' pos='np00000' lem='ja_hi_som!' id='n15281'/>
+                        </grup.nom>
+                      </sn>
+                      <sn adjunct='yes' id='sn18444'>
+                        <f wd='(' punctenclose='open' lem='(' pos='fpa' punct='bracket' id='f7933'/>
+                        <sn id='sn18445' entityref='ne' ne='other'>
+                          <grup.nom id='grup.nom17630'>
+                            <n wd='TV-3' ne='other' postype='proper' pos='np00000' lem='tv-3' id='n15282'/>
+                          </grup.nom>
+                        </sn>
+                        <f id='f7934' punct='comma' wd=',' lem=',' pos='fc'/>
+                        <sn adjunct='yes' id='sn18446' entityref='ne' ne='date'>
+                          <grup.nom num='p' gen='f' id='grup.nom17631'>
+                            <w id='w389' wd='17.35' lem='[??:??/??/??:17.35]' ne='date'/>
+                          </grup.nom>
+                        </sn>
+                        <f wd=')' punctenclose='close' lem=')' pos='fpt' punct='bracket' id='f7935'/>
+                      </sn>
+                    </sn>
+                    <S clausetype='relative' coord='yes' id='S6111'>
+                      <f id='f7936' punct='comma' wd=',' lem=',' pos='fc'/>
+                      <relatiu tem='pat' coreftype='ident' entity='entity2' identdegree='3' func='cd' arg='arg1' id='relatiu1129' entityref='spec'>
+                        <p wd='que' postype='relative' pos='pr0cn000' lem='que' num='c' id='p2588' gen='c'/>
+                      </relatiu>
+                      <S clausetype='relative' id='S6112'>
+                        <sn elliptic='yes' coreftype='ident' entity='entity3' entityref='spec' func='suj' arg='arg0' id='sn18447' tem='agt'/>
+                        <grup.verb id='grup.verb5128'>
+                          <v wd='presenta' mood='indicative' postype='main' lexicalid='verb.presentar.4.default' lem='presentar' pos='vmip3s0' person='3' num='s' tense='present' lss='A22.transitive-agentive-theme' id='v7390'/>
+                        </grup.verb>
+                      </S>
+                      <conj id='conj3053' conjunctiontype='coordinating'>
+                        <c id='c3124' postype='coordinating' wd='y' lem='y' pos='cc'/>
+                      </conj>
+                      <S clausetype='relative' id='S6113'>
+                        <grup.verb id='grup.verb5129'>
+                          <v wd='dirige' mood='indicative' postype='main' lexicalid='verb.dirigir.1.default' lem='dirigir' pos='vmip3s0' person='3' num='s' tense='present' lss='A21.transitive-agentive-patient' id='v7391'/>
+                        </grup.verb>
+                        <sn tem='agt' ne='person' entity='entity3' entityref='ne' func='suj' arg='arg0' id='sn18448'>
+                          <grup.nom num='s' gen='m' id='grup.nom17632'>
+                            <n wd='Alfons_Arús' ne='person' postype='proper' pos='np00000' lem='Alfons_Arús' id='n15283'/>
+                          </grup.nom>
+                        </sn>
+                      </S>
+                    </S>
+                  </grup.nom>
+                </sn>
+              </sp>
+            </grup.nom>
+          </sn>
+        </sp>
+      </grup.nom>
+    </sn>
+    <f id='f7937' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+</article>

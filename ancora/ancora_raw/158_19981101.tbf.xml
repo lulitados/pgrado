@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lng='es' id='article395'>
+  <sentence id='sentence4165'>
+    <sn tem='agt' ne='organization' entity='singleton1' entityref='ne' func='suj' arg='arg0' id='sn36523'>
+      <grup.nom id='grup.nom34918'>
+        <n wd='EEUU' ne='organization' postype='proper' pos='np00000' lem='EEUU' id='n30147'/>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb10277'>
+      <v wd='celebrará' mood='indicative' postype='main' lexicalid='verb.celebrar.1.default' lem='celebrar' pos='vmif3s0' person='3' num='s' tense='future' lss='A21.transitive-agentive-patient' id='v14637'/>
+    </grup.verb>
+    <sn tem='pat' id='sn36524' entityref='nne' func='cd' arg='arg1'>
+      <grup.nom num='p' gen='f' id='grup.nom34919'>
+        <n origin='deverbal' wd='elecciones' postype='common' lexicalid='noun.elección.1.default' iarg0='agt:singleton1' lem='elección' iarg1='pat:singleton2' num='p' pos='ncfp000' sense='16:00118873' id='n30148' gen='f'/>
+      </grup.nom>
+    </sn>
+    <sp id='sp20023' tem='fin' func='cc' arg='argM'>
+      <prep id='prep19546'>
+        <s id='s19621' postype='preposition' wd='para' lem='para' pos='sps00'/>
+      </prep>
+      <S impersonal='yes' clausetype='completive' id='S12334'>
+        <infinitiu id='infinitiu2739'>
+          <v wd='renovar' mood='infinitive' postype='main' lexicalid='verb.renovar.1.default' pos='vmn0000' lem='renovar' lss='A21.transitive-agentive-patient' id='v14638'/>
+        </infinitiu>
+        <sadv id='sadv2950' tem='tmp' func='cc' arg='argM'>
+          <grup.adv id='grup.adv2916'>
+            <r id='r4282' wd='parcialmente' lem='parcialmente' pos='rg'/>
+          </grup.adv>
+        </sadv>
+        <sn tem='pat' coord='yes' entity='singleton2' func='cd' arg='arg1' id='sn36525'>
+          <sn id='sn36526' entityref='ne' ne='organization'>
+            <spec num='s' gen='f' id='spec18835'>
+              <d wd='la' postype='article' pos='da0fs0' lem='el' num='s' id='d18472' gen='f'/>
+            </spec>
+            <grup.nom num='s' gen='f' id='grup.nom34920'>
+              <n wd='Cámara_de_Representantes' ne='organization' postype='proper' pos='np00000' lem='Cámara_de_Representantes' id='n30149'/>
+            </grup.nom>
+          </sn>
+          <conj id='conj6131' conjunctiontype='coordinating'>
+            <c id='c6305' postype='coordinating' wd='y' lem='y' pos='cc'/>
+          </conj>
+          <sn id='sn36527' entityref='ne' ne='organization'>
+            <spec num='s' gen='m' id='spec18836'>
+              <d wd='el' postype='article' pos='da0ms0' lem='el' num='s' id='d18473' gen='m'/>
+            </spec>
+            <grup.nom num='s' gen='m' id='grup.nom34921'>
+              <n wd='Senado' ne='organization' postype='proper' pos='np00000' lem='Senado' id='n30150'/>
+            </grup.nom>
+          </sn>
+        </sn>
+      </S>
+    </sp>
+    <f id='f16032' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+</article>

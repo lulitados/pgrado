@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lng='es' id='article1071'>
+  <sentence id='sentence11427'>
+    <sn tem='cau' title='yes' ne='organization' entity='entity1' entityref='ne' func='suj' arg='arg0' id='sn102285'>
+      <spec num='s' gen='m' id='spec53404'>
+        <d wd='El' postype='article' pos='da0ms0' lem='el' num='s' id='d52217' gen='m'/>
+      </spec>
+      <grup.nom num='s' gen='m' id='grup.nom96960'>
+        <n wd='CGPJ' ne='organization' postype='proper' pos='np00000' lem='CGPJ' id='n84020'/>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb29310'>
+      <v wd='rechaza' mood='indicative' postype='main' lexicalid='verb.rechazar.1.default' lem='rechazar' pos='vmip3s0' person='3' num='s' tense='present' lss='A11.transitive-causative' id='v42047'/>
+    </grup.verb>
+    <S tem='tem' id='S35286' clausetype='completive' func='cd' arg='arg1'>
+      <conj id='conj17538' conjunctiontype='subordinating'>
+        <c id='c18153' postype='subordinating' wd='que' lem='que' pos='cs'/>
+      </conj>
+      <morfema.verbal id='morfema.verbal1616' func='impers'>
+        <p wd='se' pos='p0000000' gen='c' lem='se' num='c' id='p14976'/>
+      </morfema.verbal>
+      <grup.verb id='grup.verb29311'>
+        <v wd='indemnice' mood='subjunctive' postype='main' lexicalid='verb.indemnizar.1.default' lem='indemnizar' pos='vmsp3s0' person='3' num='s' tense='present' lss='A21.transitive-agentive-patient' id='v42048'/>
+      </grup.verb>
+      <sp id='sp56781' tem='pat' func='cd' arg='arg1'>
+        <prep id='prep55412'>
+          <s id='s55618' postype='preposition' wd='a' lem='a' pos='sps00'/>
+        </prep>
+        <sn id='sn102286' ne='person' title='yes' entityref='ne' entity='entity2'>
+          <grup.nom num='s' gen='m' id='grup.nom96961'>
+            <n wd='Ruiz-Mateos' ne='person' postype='proper' pos='np00000' lem='Ruiz-Mateos' id='n84021'/>
+          </grup.nom>
+        </sn>
+      </sp>
+      <sp id='sp56782' tem='cau' func='cc' arg='argM'>
+        <prep id='prep55413'>
+          <s id='s55619' postype='preposition' wd='por' lem='por' pos='sps00'/>
+        </prep>
+        <sn id='sn102287' title='yes' entityref='ne' ne='organization'>
+          <grup.nom id='grup.nom96962'>
+            <n wd='Rumasa' ne='organization' postype='proper' pos='np00000' lem='Rumasa' id='n84022'/>
+          </grup.nom>
+        </sn>
+      </sp>
+    </S>
+    <f id='f45019' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+  <sentence id='sentence11428'>
+    <sn tem='agt' ne='organization' entityref='ne' func='suj' arg='arg0' id='sn102288'>
+      <spec num='s' gen='m' id='spec53405'>
+        <d wd='El' postype='article' pos='da0ms0' lem='el' num='s' id='d52218' gen='m'/>
+      </spec>
+      <grup.nom num='s' gen='m' id='grup.nom96963'>
+        <n wd='Poder_Judicial' ne='organization' postype='proper' pos='np00000' lem='Poder_Judicial' id='n84023'/>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb29312'>
+      <v wd='informó' mood='indicative' postype='main' pos='vmis3s0' lem='informar' person='3' num='s' tense='past' lss='A31.ditransitive-patient-locative' id='v42049'/>
+    </grup.verb>
+    <sadv id='sadv8336' tem='tmp' func='cc' arg='argM'>
+      <grup.adv id='grup.adv8214'>
+        <r id='r12241' wd='ayer' lem='ayer' pos='rg'/>
+      </grup.adv>
+    </sadv>
+    <sp id='sp56783' tem='adv' func='cc' arg='argM'>
+      <prep id='prep55414'>
+        <s id='s55620' postype='preposition' wd='contra' lem='contra' pos='sps00'/>
+      </prep>
+      <sn homophoricDD='yes' entityref='nne' id='sn102289'>
+        <spec num='s' gen='f' id='spec53406'>
+          <d wd='la' postype='article' pos='da0fs0' lem='el' num='s' id='d52219' gen='f'/>
+        </spec>
+        <grup.nom num='s' gen='f' id='grup.nom96964'>
+          <n origin='deverbal' wd='petición' postype='common' lexicalid='noun.petición.1.default' lem='petición' iarg2='ben:entity1' iarg1='pat:singleton2' num='s' pos='ncfs000' sense='16:04888919' id='n84024' gen='f'/>
+          <sp id='sp56784' tem='agt' func='cn' arg='arg0'>
+            <prep id='prep55415'>
+              <s wd='del' postype='preposition' contracted='yes' pos='spcms' lem='del' num='s' id='s55621' gen='m'/>
+            </prep>
+            <sn coreftype='ident' id='sn102290' entityref='spec' entity='entity2'>
+              <grup.nom num='s' gen='m' id='grup.nom96965'>
+                <n wd='empresario' postype='common' pos='ncms000' lem='empresario' num='s' sense='16:07132046' id='n84025' gen='m'/>
+                <S clausetype='relative' id='S35287'>
+                  <f id='f45020' punct='comma' wd=',' lem=',' pos='fc'/>
+                  <relatiu tem='agt' coreftype='ident' entity='entity2' identdegree='3' func='suj' arg='arg0' id='relatiu6720' entityref='spec'>
+                    <p wd='que' postype='relative' pos='pr0cn000' lem='que' num='c' id='p14977' gen='c'/>
+                  </relatiu>
+                  <grup.verb id='grup.verb29313'>
+                    <v wd='reclama' mood='indicative' postype='main' lexicalid='verb.reclamar.1.default' lem='reclamar' pos='vmip3s0' person='3' num='s' tense='present' lss='A32.ditransitive-patient-benefactive' id='v42050'/>
+                  </grup.verb>
+                  <sn tem='pat' entity='singleton2' entityref='nne' func='cd' arg='arg1' id='sn102291'>
+                    <spec num='p' gen='m' id='spec53407'>
+                      <z id='z3996' wd='100.000' lem='100000' ne='number'/>
+                    </spec>
+                    <grup.nom num='p' gen='m' id='grup.nom96966'>
+                      <n wd='millones' postype='common' pos='ncmp000' lem='millón' num='p' sense='16:09902865' id='n84026' gen='m'/>
+                    </grup.nom>
+                  </sn>
+                  <sp id='sp56785' tem='cau' func='cc' arg='argM'>
+                    <prep id='prep55416'>
+                      <s id='s55622' postype='preposition' wd='por' lem='por' pos='sps00'/>
+                    </prep>
+                    <sn homophoricDD='yes' id='sn102292' entityref='nne' entity='entity3'>
+                      <spec num='s' gen='f' id='spec53408'>
+                        <d wd='la' postype='article' pos='da0fs0' lem='el' num='s' id='d52220' gen='f'/>
+                      </spec>
+                      <grup.nom num='s' gen='f' id='grup.nom96967'>
+                        <n wd='dilación' postype='common' pos='ncfs000' lem='dilación' num='s' sense='16:00687997' id='n84027' gen='f'/>
+                        <sp id='sp56786'>
+                          <prep id='prep55417'>
+                            <s id='s55623' postype='preposition' wd='de' lem='de' pos='sps00'/>
+                          </prep>
+                          <sn id='sn102293'>
+                            <spec num='p' gen='m' id='spec53409'>
+                              <z id='z3997' wd='16' lem='16' ne='number'/>
+                            </spec>
+                            <grup.nom num='p' gen='m' id='grup.nom96968'>
+                              <n wd='años' postype='common' pos='ncmp000' lem='año' num='p' sense='16:10917509' id='n84028' gen='m'/>
+                            </grup.nom>
+                          </sn>
+                        </sp>
+                        <sp id='sp56787'>
+                          <prep id='prep55418'>
+                            <s wd='del' postype='preposition' contracted='yes' pos='spcms' lem='del' num='s' id='s55624' gen='m'/>
+                          </prep>
+                          <sn id='sn102294' ne='other' entityref='ne' entity='singleton4'>
+                            <grup.nom num='s' gen='m' id='grup.nom96969'>
+                              <n wd='caso' postype='common' pos='ncms000' lem='caso' num='s' sense='16:05081510' id='n84029' gen='m'/>
+                              <sn id='sn102295' entityref='ne' ne='organization'>
+                                <grup.nom id='grup.nom96970'>
+                                  <n wd='Rumasa' ne='organization' postype='proper' pos='np00000' lem='Rumasa' id='n84030'/>
+                                </grup.nom>
+                              </sn>
+                            </grup.nom>
+                          </sn>
+                        </sp>
+                      </grup.nom>
+                    </sn>
+                  </sp>
+                </S>
+              </grup.nom>
+            </sn>
+          </sp>
+        </grup.nom>
+      </sn>
+    </sp>
+    <f id='f45021' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+  <sentence id='sentence11429'>
+    <sn tem='agt' coreftype='ident' ne='organization' entity='entity1' entityref='ne' func='suj' arg='arg0' id='sn102296'>
+      <spec num='s' gen='m' id='spec53410'>
+        <d wd='El' postype='article' pos='da0ms0' lem='el' num='s' id='d52221' gen='m'/>
+      </spec>
+      <grup.nom num='s' gen='m' id='grup.nom96971'>
+        <n wd='CGPJ' ne='organization' postype='proper' pos='np00000' lem='CGPJ' id='n84031'/>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb29314'>
+      <v wd='argumenta' mood='indicative' postype='main' lexicalid='verb.argumentar.1.default' lem='argumentar' pos='vmip3s0' person='3' num='s' tense='present' lss='A21.transitive-agentive-patient' id='v42051'/>
+    </grup.verb>
+    <S tem='pat' id='S35288' clausetype='completive' func='cd' arg='arg1'>
+      <conj id='conj17539' conjunctiontype='subordinating'>
+        <c id='c18154' postype='subordinating' wd='que' lem='que' pos='cs'/>
+      </conj>
+      <sn tem='agt' coreftype='ident' ne='person' entity='entity2' entityref='ne' func='suj' arg='arg0' id='sn102297'>
+        <grup.nom num='s' gen='m' id='grup.nom96972'>
+          <n wd='Ruiz-Mateos' ne='person' postype='proper' pos='np00000' lem='Ruiz-Mateos' id='n84032'/>
+        </grup.nom>
+      </sn>
+      <grup.verb id='grup.verb29315'>
+        <v wd='contribuyó' mood='indicative' postype='main' lexicalid='verb.contribuir.1.default' lem='contribuir' pos='vmis3s0' person='3' num='s' tense='past' lss='A22.transitive-agentive-theme' id='v42052'/>
+      </grup.verb>
+      <sp id='sp56788' tem='tem' func='creg' arg='arg1'>
+        <prep id='prep55419'>
+          <s wd='al' postype='preposition' contracted='yes' pos='spcms' lem='al' num='s' id='s55625' gen='m'/>
+        </prep>
+        <sn coreftype='ident' id='sn102298' entityref='nne' entity='entity3'>
+          <grup.nom num='s' gen='m' id='grup.nom96973'>
+            <n origin='deverbal' wd='retraso' postype='common' lexicalid='noun.retraso.1.default' lem='retraso' iarg1='tem:singleton4' num='s' pos='ncms000' sense='16:00689955' id='n84033' gen='m'/>
+          </grup.nom>
+        </sn>
+      </sp>
+    </S>
+    <f id='f45022' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+</article>

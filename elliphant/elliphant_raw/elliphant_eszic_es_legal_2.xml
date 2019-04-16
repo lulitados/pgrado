@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE analysis SYSTEM "http://www.connexor.com/dtds/4.0/fdg3.dtd">
+<analysis><sentence id="w1">
+<token id="w2">	<text>CAPITULO</text>	<lemma>capitulo</lemma>	<depend head="w3">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w3">	<text>I</text>	<lemma>i</lemma>	<depend head="w1">main</depend>	<tags><syntax>@NH</syntax> <morpho>N SG</morpho></tags></token>
+</sentence>
+<paragraph/><sentence id="w5">
+<token id="w6">	<text>Normas</text>	<lemma>norma</lemma>	<depend head="w5">main</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL Prop</morpho></tags></token>
+<token id="w7">	<text>Generales</text>	<lemma>general</lemma>	<depend head="w6">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL Prop</morpho></tags></token>
+</sentence>
+<paragraph/><sentence id="w9">
+<token id="w10">	<text>Articulo</text>	<lemma>artículo</lemma>	<depend head="w9">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w11">	<text>1°</text>	<lemma>1o</lemma>	<depend head="w10">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w12">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w13">
+<token id="w14">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w15">	<text>Esta</text>	<lemma>este</lemma>	<depend head="w16">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w16">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w17">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w17">	<text>tiene</text>	<lemma>tener</lemma>	<depend head="w13">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w18">	<text>por</text>	<lemma>por</lemma>	<depend head="w19">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w19">	<text>objeto</text>	<lemma>objeto</lemma>	<depend head="w17">cnt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w20">	<text>proteger</text>	<lemma>proteger</lemma>	<depend head="w19">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w21">	<text>a</text>	<lemma>a</lemma>	<depend head="w22">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w22">	<text>competidores</text>	<lemma>competidor</lemma>	<depend head="w20">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w23">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w24">	<text>consumidores</text>	<lemma>consumidor</lemma>	<depend head="w22">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w25">	<text>y</text>	<lemma>y</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w26">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w27">	<text>en</text>	<lemma>en</lemma>	<depend head="w28">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w28">	<text>general</text>	<lemma>general</lemma>		<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w29">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w30">	<text>a</text>	<lemma>a</lemma>	<depend head="w32">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w31">	<text>cualquier</text>	<lemma>cualquiera</lemma>	<depend head="w32">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON SG</morpho></tags></token>
+<token id="w32">	<text>persona</text>	<lemma>persona</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w33">	<text>afectada</text>	<lemma>afectado</lemma>	<depend head="w32">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w34">	<text>en</text>	<lemma>en</lemma>	<depend head="w36">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w35">	<text>sus</text>	<lemma>suyo</lemma>	<depend head="w36">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Poss tonic UTR PL P3</morpho></tags></token>
+<token id="w36">	<text>intereses</text>	<lemma>interés</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w37">	<text>legítimos</text>	<lemma>legítimo</lemma>	<depend head="w36">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w38">	<text>por</text>	<lemma>por</lemma>	<depend head="w40">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w39">	<text>un</text>	<lemma>uno</lemma>	<depend head="w40">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w40">	<text>acto</text>	<lemma>acto</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w41">	<text>de</text>	<lemma>de</lemma>	<depend head="w42">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w42">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w40">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w43">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w42">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w44">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w46">
+<token id="w47">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w46">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w48">	<text>2°</text>	<lemma>2o</lemma>	<depend head="w47">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w49">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w50">
+<token id="w51">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w52">	<text>Una</text>	<lemma>uno</lemma>	<depend head="w53">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w53">	<text>conducta</text>	<lemma>conducta</lemma>	<depend head="w54">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w54">	<text>podrá</text>	<lemma>poder</lemma>	<depend head="w50">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT_P</subject></tags></token>
+<token id="w55">	<text>ser</text>	<lemma>ser</lemma>	<depend head="w56">v-ch</depend>	<tags><syntax>@AUX</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w56">	<text>calificada</text>	<lemma>calificar</lemma>	<depend head="w54">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF FEM SG</morpho></tags></token>
+<token id="w57">	<text>como</text>	<lemma>como</lemma>	<depend head="w59">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w58">	<text>un</text>	<lemma>uno</lemma>	<depend head="w59">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w59">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w56">advl</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w60">	<text>de</text>	<lemma>de</lemma>	<depend head="w61">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w61">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w59">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w62">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w61">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w63">	<text>conforme</text>	<lemma>conforme</lemma>		<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w64">	<text>a</text>	<lemma>a</lemma>	<depend head="w66">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w65">	<text>las</text>	<lemma>las</lemma>	<depend head="w66">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w66">	<text>disposiciones</text>	<lemma>disposición</lemma>	<depend head="w71">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w67">	<text>de</text>	<lemma>de</lemma>	<depend head="w69">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w68">	<text>esta</text>	<lemma>este</lemma>	<depend head="w69">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w69">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w66">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w70">	<text>aunque</text>	<lemma>aunque</lemma>	<depend head="w71">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w71">	<text>resulten</text>	<lemma>resultar</lemma>	<depend head="w56">cnd</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w72">	<text>procedentes</text>	<lemma>procedente</lemma>	<depend head="w71">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w73">	<text>respecto</text>	<lemma>respecto</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w74">	<text>de</text>	<lemma>de</lemma>	<depend head="w77">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w75">	<text>esa</text>	<lemma>ese</lemma>	<depend head="w77">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w76">	<text>misma</text>	<lemma>mismo</lemma>	<depend head="w77">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w77">	<text>conducta</text>	<lemma>conducta</lemma>	<depend head="w73">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w78">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w79">	<text>y</text>	<lemma>y</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w80">	<text>ante</text>	<lemma>ante</lemma>	<depend head="w82">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w81">	<text>los</text>	<lemma>los</lemma>	<depend head="w82">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w82">	<text>tribunales</text>	<lemma>tribunal</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w83">	<text>competentes</text>	<lemma>competente</lemma>	<depend head="w82">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w84">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w85">	<text>una</text>	<lemma>uno</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM CARD FEM SG</morpho></tags>	<tags><syntax>@NH</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w86">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w87">	<text>más</text>	<lemma>más</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON</morpho></tags></token>
+<token id="w88">	<text>de</text>	<lemma>de</lemma>	<depend head="w91">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w89">	<text>las</text>	<lemma>las</lemma>	<depend head="w91">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w90">	<text>siguientes</text>	<lemma>siguiente</lemma>	<depend head="w91">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w91">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w87">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w92">	<text>:</text>	<lemma>:</lemma></token>
+<token id="w93">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w94">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w95">	<text>Las</text>	<lemma>las</lemma>	<depend head="w96">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w96">	<text>reguladas</text>	<lemma>regulada</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w97">	<text>en</text>	<lemma>en</lemma>	<depend head="w99">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w98">	<text>el</text>	<lemma>el</lemma>	<depend head="w99">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w99">	<text>decreto</text>	<lemma>decreto</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w100">	<text>con</text>	<lemma>con</lemma>	<depend head="w101">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w101">	<text>fuerza</text>	<lemma>fuerza</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w102">	<text>de</text>	<lemma>de</lemma>	<depend head="w103">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w103">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w101">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w104">	<text>N°</text>	<lemma>n°</lemma>	<depend head="w103">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N Abbr MSC SG</morpho></tags></token>
+<token id="w105">	<text>1</text>	<lemma>1</lemma>	<depend head="w104">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w106">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w107">	<text>de</text>	<lemma>de</lemma>	<depend head="w108">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w108">	<text>2005</text>	<lemma>2005</lemma>	<depend head="w105">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w109">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w110">	<text>de</text>	<lemma>de</lemma>	<depend head="w112">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w111">	<text>l</text>	<lemma>el</lemma>	<depend head="w112">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w112">	<text>Ministerio</text>	<lemma>ministerio</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w113">	<text>de</text>	<lemma>de</lemma>	<depend head="w114">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w114">	<text>Economía</text>	<lemma>economía</lemma>	<depend head="w112">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG Prop</morpho></tags></token>
+<token id="w115">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w116">	<text>Fomento</text>	<lemma>fomento</lemma>	<depend head="w114">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w117">	<text>y</text>	<lemma>y</lemma>	<depend head="w116">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w118">	<text>Reconstrucción</text>	<lemma>reconstrucción</lemma>	<depend head="w116">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w119">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w120">	<text>que</text>	<lemma>que</lemma>	<depend head="w121">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w121">	<text>fija</text>	<lemma>fijar</lemma>	<depend head="w118">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w122">	<text>el</text>	<lemma>el</lemma>	<depend head="w123">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w123">	<text>texto</text>	<lemma>texto</lemma>	<depend head="w121">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w124">	<text>refundido</text>	<lemma>refundido</lemma>	<depend head="w123">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w125">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w126">	<text>coordinado</text>	<lemma>coordinado</lemma>	<depend head="w124">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w127">	<text>y</text>	<lemma>y</lemma>	<depend head="w126">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w128">	<text>sistematizado</text>	<lemma>sistematizado</lemma>	<depend head="w126">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w129">	<text>de</text>	<lemma>de</lemma>	<depend head="w131">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w130">	<text>l</text>	<lemma>el</lemma>	<depend head="w131">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w131">	<text>decreto</text>	<lemma>decreto</lemma>	<depend head="w123">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w132">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w131">mod</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w133">	<text>N°</text>	<lemma>n°</lemma>		<tags><syntax>@NH</syntax> <morpho>N Abbr MSC SG</morpho></tags></token>
+<token id="w134">	<text>211</text>	<lemma>211</lemma>	<depend head="w133">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w135">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w136">	<text>de</text>	<lemma>de</lemma>	<depend head="w137">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w137">	<text>1973</text>	<lemma>1973</lemma>	<depend head="w134">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w138">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w139">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w141">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w140">	<text>libre</text>	<lemma>libre</lemma>	<depend head="w141">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w141">	<text>competencia</text>	<lemma>competencia</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w142">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w144">
+<token id="w145">	<text>b</text>	<lemma>b</lemma>	<depend head="w144">main</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w146">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w147">	<text>Las</text>	<lemma>las</lemma>	<depend head="w148">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w148">	<text>reguladas</text>	<lemma>regulada</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w149">	<text>en</text>	<lemma>en</lemma>	<depend head="w151">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w150">	<text>la</text>	<lemma>la</lemma>	<depend head="w151">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w151">	<text>ley</text>	<lemma>ley</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w152">	<text>N°</text>	<lemma>n°</lemma>	<depend head="w151">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N Abbr MSC SG</morpho></tags></token>
+<token id="w153">	<text>19.496</text>	<lemma>19.496</lemma>	<depend head="w152">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w154">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w155">	<text>que</text>	<lemma>que</lemma>	<depend head="w156">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w156">	<text>establece</text>	<lemma>establecer</lemma>	<depend head="w153">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w157">	<text>normas</text>	<lemma>norma</lemma>	<depend head="w156">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w158">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w159">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w159">	<text>protección</text>	<lemma>protección</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w160">	<text>de</text>	<lemma>de</lemma>	<depend head="w162">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w161">	<text>los</text>	<lemma>los</lemma>	<depend head="w162">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w162">	<text>derechos</text>	<lemma>derecho</lemma>	<depend head="w159">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w163">	<text>de</text>	<lemma>de</lemma>	<depend head="w165">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w164">	<text>los</text>	<lemma>los</lemma>	<depend head="w165">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w165">	<text>consumidores</text>	<lemma>consumidor</lemma>	<depend head="w162">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w166">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w168">
+<token id="w169">	<text>c</text>	<lemma>c</lemma>	<depend head="w168">main</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w170">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w171">	<text>Las</text>	<lemma>las</lemma>	<depend head="w172">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w172">	<text>reguladas</text>	<lemma>regulada</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w173">	<text>en</text>	<lemma>en</lemma>	<depend head="w175">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w174">	<text>la</text>	<lemma>la</lemma>	<depend head="w175">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w175">	<text>ley</text>	<lemma>ley</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w176">	<text>N°</text>	<lemma>n°</lemma>	<depend head="w175">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N Abbr MSC SG Prop</morpho></tags></token>
+<token id="w177">	<text>1S7.336</text>	<lemma>1s7.336</lemma>		<tags><syntax>@NH</syntax> <morpho>Heur N MSC SG Prop</morpho></tags></token>
+<token id="w178">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w179">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w180">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w180">	<text>propiedad</text>	<lemma>propiedad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w181">	<text>intelectual</text>	<lemma>intelectual</lemma>	<depend head="w180">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w182">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w183">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w184">	<text>en</text>	<lemma>en</lemma>	<depend head="w186">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w185">	<text>la</text>	<lemma>la</lemma>	<depend head="w186">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w186">	<text>ley</text>	<lemma>ley</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w187">	<text>N°</text>	<lemma>n°</lemma>	<depend head="w186">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N Abbr MSC SG</morpho></tags></token>
+<token id="w188">	<text>19.039</text>	<lemma>19.039</lemma>	<depend head="w187">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w189">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w190">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w191">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w191">	<text>propiedad</text>	<lemma>propiedad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w192">	<text>industrial</text>	<lemma>industrial</lemma>	<depend head="w191">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w193">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w195">
+<token id="w196">	<text>CAPITULO</text>	<lemma>capitulo</lemma>	<depend head="w195">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w197">	<text>II</text>	<lemma>ii</lemma>	<depend head="w196">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+</sentence>
+<paragraph/><sentence id="w199">
+<token id="w200">	<text>De</text>	<lemma>de</lemma>	<depend head="w202">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w201">	<text>la</text>	<lemma>la</lemma>	<depend head="w202">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w202">	<text>Competencia</text>	<lemma>competencia</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG Prop</morpho></tags></token>
+<token id="w203">	<text>Desleal</text>	<lemma>desleal</lemma>	<depend head="w202">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+</sentence>
+<paragraph/><sentence id="w205">
+<token id="w206">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w205">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w207">	<text>3°</text>	<lemma>3o</lemma>	<depend head="w206">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w208">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w209">
+<token id="w210">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w211">	<text>En</text>	<lemma>en</lemma>	<depend head="w212">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w212">	<text>general</text>	<lemma>general</lemma>		<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w213">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w214">	<text>es</text>	<lemma>ser</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w215">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w214">comp</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w216">	<text>de</text>	<lemma>de</lemma>	<depend head="w217">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w217">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w215">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w218">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w217">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w219">	<text>toda</text>	<lemma>todo</lemma>	<depend head="w220">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w220">	<text>conducta</text>	<lemma>conducta</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w221">	<text>contraria</text>	<lemma>contraria</lemma>		<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w222">	<text>a</text>	<lemma>a</lemma>	<depend head="w225">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w223">	<text>la</text>	<lemma>la</lemma>	<depend head="w225">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w224">	<text>buena</text>	<lemma>bueno</lemma>	<depend head="w225">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w225">	<text>fe</text>	<lemma>fe</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w226">	<text>o</text>	<lemma>o</lemma>	<depend head="w225">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w227">	<text>a</text>	<lemma>a</lemma>	<depend head="w230">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w228">	<text>las</text>	<lemma>las</lemma>	<depend head="w230">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w229">	<text>buenas</text>	<lemma>bueno</lemma>	<depend head="w230">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w230">	<text>costumbres</text>	<lemma>costumbre</lemma>	<depend head="w225">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w231">	<text>que</text>	<lemma>que</lemma>	<depend head="w237">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w232">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w233">	<text>por</text>	<lemma>por</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w234">	<text>medio</text>	<lemma>medio</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC SG</morpho></tags>	<tags><syntax>@PREMOD</syntax> <morpho>A MSC SG</morpho></tags>	<tags><syntax>@NH</syntax> <morpho>NUM ORD MSC SG</morpho></tags>	<tags><syntax>@PREMOD</syntax> <morpho>NUM ORD MSC SG</morpho></tags>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w235">	<text>ilegítimos</text>	<lemma>ilegítimo</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC PL</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w236">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w237">	<text>persiga</text>	<lemma>perseguir</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w238">	<text>desviar</text>	<lemma>desviar</lemma>	<depend head="w237">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w239">	<text>clientela</text>	<lemma>clientela</lemma>	<depend head="w238">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w240">	<text>de</text>	<lemma>de</lemma>	<depend head="w242">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w241">	<text>un</text>	<lemma>uno</lemma>	<depend head="w242">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w242">	<text>agente</text>	<lemma>agente</lemma>	<depend head="w239">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N UTR SG</morpho></tags></token>
+<token id="w243">	<text>de</text>	<lemma>de</lemma>	<depend head="w245">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w244">	<text>l</text>	<lemma>el</lemma>	<depend head="w245">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w245">	<text>mercado</text>	<lemma>mercado</lemma>	<depend head="w242">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w246">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w248">
+<token id="w249">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w248">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w250">	<text>4°</text>	<lemma>4o</lemma>	<depend head="w249">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w251">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w252">
+<token id="w253">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w254">	<text>En</text>	<lemma>en</lemma>	<depend head="w255">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w255">	<text>particular</text>	<lemma>particular</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w256">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w257">	<text>y</text>	<lemma>y</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w258">	<text>sin</text>	<lemma>sin</lemma>	<depend head="w259">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w259">	<text>que</text>	<lemma>que</lemma>	<depend head="w262">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w260">	<text>la</text>	<lemma>la</lemma>	<depend head="w261">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w261">	<text>enumeración</text>	<lemma>enumeración</lemma>	<depend head="w262">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w262">	<text>sea</text>	<lemma>ser</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w263">	<text>taxativa</text>	<lemma>taxativo</lemma>	<depend head="w262">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w264">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w265">	<text>se</text>	<lemma>se</lemma>	<depend head="w266">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w266">	<text>considerarán</text>	<lemma>considerar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT PL P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w267">	<text>actos</text>	<lemma>acto</lemma>	<depend head="w266">oc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w268">	<text>de</text>	<lemma>de</lemma>	<depend head="w269">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w269">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w267">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w270">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w269">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w271">	<text>los</text>	<lemma>los</lemma>	<depend head="w272">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w272">	<text>siguientes</text>	<lemma>siguiente</lemma>		<tags><syntax>@NH</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w273">	<text>:</text>	<lemma>:</lemma></token>
+<token id="w274">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w275">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w276">	<text>Toda</text>	<lemma>todo</lemma>	<depend head="w277">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w277">	<text>conducta</text>	<lemma>conducta</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w278">	<text>que</text>	<lemma>que</lemma>	<depend head="w279">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w279">	<text>aproveche</text>	<lemma>aprovechar</lemma>	<depend head="w277">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w280">	<text>indebidamente</text>	<lemma>indebidamente</lemma>	<depend head="w279">man</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w281">	<text>la</text>	<lemma>la</lemma>	<depend head="w282">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w282">	<text>reputación</text>	<lemma>reputación</lemma>	<depend head="w279">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w283">	<text>ajena</text>	<lemma>ajeno</lemma>	<depend head="w282">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w284">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w285">	<text>induciendo</text>	<lemma>inducir</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V GER</morpho></tags></token>
+<token id="w286">	<text>a</text>	<lemma>a</lemma>	<depend head="w287">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w287">	<text>confundir</text>	<lemma>confundir</lemma>	<depend head="w285">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w288">	<text>los</text>	<lemma>los</lemma>	<depend head="w290">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w289">	<text>propios</text>	<lemma>propio</lemma>	<depend head="w290">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w290">	<text>bienes</text>	<lemma>bienes</lemma>	<depend head="w287">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w291">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w292">	<text>servicios</text>	<lemma>servicio</lemma>	<depend head="w290">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w293">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w294">	<text>actividades</text>	<lemma>actividad</lemma>	<depend head="w292">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w295">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w296">	<text>signos</text>	<lemma>signo</lemma>	<depend head="w294">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w297">	<text>distintivos</text>	<lemma>distintivo</lemma>	<depend head="w296">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w298">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w299">	<text>establecimientos</text>	<lemma>establecimiento</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w300">	<text>con</text>	<lemma>con</lemma>	<depend head="w301">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w301">	<text>los</text>	<lemma>los</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON Pers MSC PL ACC</morpho></tags></token>
+<token id="w302">	<text>de</text>	<lemma>de</lemma>	<depend head="w304">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w303">	<text>un</text>	<lemma>uno</lemma>	<depend head="w304">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w304">	<text>tercero</text>	<lemma>tercero</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD MSC SG</morpho></tags></token>
+<token id="w305">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w307">
+<token id="w308">	<text>b</text>	<lemma>b</lemma>	<depend head="w307">main</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w309">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w310">	<text>El</text>	<lemma>el</lemma>	<depend head="w311">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w311">	<text>uso</text>	<lemma>uso</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w312">	<text>de</text>	<lemma>de</lemma>	<depend head="w313">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w313">	<text>signos</text>	<lemma>signo</lemma>	<depend head="w311">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w314">	<text>o</text>	<lemma>o</lemma>	<depend head="w313">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w315">	<text>la</text>	<lemma>la</lemma>	<depend head="w316">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w316">	<text>difusión</text>	<lemma>difusión</lemma>	<depend head="w313">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w317">	<text>de</text>	<lemma>de</lemma>	<depend head="w318">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w318">	<text>hechos</text>	<lemma>hecho</lemma>	<depend head="w316">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w319">	<text>o</text>	<lemma>o</lemma>	<depend head="w318">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w320">	<text>aseveraciones</text>	<lemma>aseveración</lemma>	<depend head="w318">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w321">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w322">	<text>incorrecto</text>	<lemma>incorrecto</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC SG</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w323">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w324">	<text>falsos</text>	<lemma>falso</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC PL</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w325">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w326">	<text>que</text>	<lemma>que</lemma>	<depend head="w327">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w327">	<text>induzcan</text>	<lemma>inducir</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w328">	<text>a</text>	<lemma>a</lemma>	<depend head="w329">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w329">	<text>error</text>	<lemma>error</lemma>	<depend head="w327">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w330">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w332">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w331">	<text>la</text>	<lemma>la</lemma>	<depend head="w332">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w332">	<text>naturaleza</text>	<lemma>naturaleza</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w333">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w334">	<text>proveniencia</text>	<lemma>proveniencia</lemma>	<depend head="w332">cc</depend>	<tags><syntax>@NH</syntax> <morpho>Heur N FEM SG</morpho></tags></token>
+<token id="w335">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w336">	<text>componentes</text>	<lemma>componente</lemma>	<depend head="w334">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w337">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w338">	<text>características</text>	<lemma>característica</lemma>	<depend head="w336">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w339">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w340">	<text>precio</text>	<lemma>precio</lemma>	<depend head="w338">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w341">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w342">	<text>modo</text>	<lemma>modo</lemma>	<depend head="w340">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w343">	<text>de</text>	<lemma>de</lemma>	<depend head="w344">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w344">	<text>producción</text>	<lemma>producción</lemma>	<depend head="w342">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w345">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w346">	<text>marca</text>	<lemma>marca</lemma>	<depend head="w344">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w347">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w348">	<text>idoneidad</text>	<lemma>idóneidad</lemma>	<depend head="w346">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w349">	<text>para</text>	<lemma>para</lemma>	<depend head="w351">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w350">	<text>los</text>	<lemma>los</lemma>	<depend head="w351">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w351">	<text>fines</text>	<lemma>fin</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w352">	<text>que</text>	<lemma>que</lemma>	<depend head="w353">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w353">	<text>pretende</text>	<lemma>pretender</lemma>	<depend head="w351">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>ZERO</subject></tags></token>
+<token id="w354">	<text>satisfacer</text>	<lemma>satisfacer</lemma>	<depend head="w353">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w355">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w356">	<text>calidad</text>	<lemma>calidad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w357">	<text>o</text>	<lemma>o</lemma>	<depend head="w356">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w358">	<text>cantidad</text>	<lemma>cantidad</lemma>	<depend head="w356">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w359">	<text>y</text>	<lemma>y</lemma>	<depend head="w353">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w360">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w361">	<text>en</text>	<lemma>en</lemma>	<depend head="w362">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w362">	<text>general</text>	<lemma>general</lemma>		<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w363">	<text>sobre</text>	<lemma>sobrar</lemma>	<depend head="w353">cc</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>ERROR</subject></tags></token>
+<token id="w364">	<text>las</text>	<lemma>las</lemma>	<depend head="w365">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w365">	<text>ventajas</text>	<lemma>ventaja</lemma>	<depend head="w363">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w366">	<text>realmente</text>	<lemma>realmente</lemma>	<depend head="w367">ad</depend>	<tags><syntax>@PREMOD</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w367">	<text>proporcionadas</text>	<lemma>proporcionado</lemma>	<depend head="w365">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w368">	<text>por</text>	<lemma>por</lemma>	<depend head="w370">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w369">	<text>los</text>	<lemma>los</lemma>	<depend head="w370">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w370">	<text>bienes</text>	<lemma>bienes</lemma>	<depend head="w363">cnt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w371">	<text>o</text>	<lemma>o</lemma>	<depend head="w370">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w372">	<text>servicio</text>	<lemma>servicio</lemma>	<depend head="w370">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w373">	<text>ofrecidos</text>	<lemma>ofrecido</lemma>	<depend head="w372">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w374">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w375">	<text>propios</text>	<lemma>propio</lemma>	<depend head="w373">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w376">	<text>o</text>	<lemma>o</lemma>	<depend head="w375">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w377">	<text>ajenos</text>	<lemma>ajeno</lemma>	<depend head="w375">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w378">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w380">
+<token id="w381">	<text>c</text>	<lemma>c</lemma>	<depend head="w380">main</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w382">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w383">	<text>Todas</text>	<lemma>todo</lemma>	<depend head="w384">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w384">	<text>las</text>	<lemma>las</lemma>	<depend head="w385">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w385">	<text>informaciones</text>	<lemma>información</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w386">	<text>o</text>	<lemma>o</lemma>	<depend head="w385">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w387">	<text>aseveraciones</text>	<lemma>aseveración</lemma>	<depend head="w385">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w388">	<text>incorrectas</text>	<lemma>incorrecto</lemma>	<depend head="w387">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w389">	<text>o</text>	<lemma>o</lemma>	<depend head="w388">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w390">	<text>falsas</text>	<lemma>falso</lemma>	<depend head="w388">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w391">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w393">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w392">	<text>los</text>	<lemma>los</lemma>	<depend head="w393">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w393">	<text>bienes</text>	<lemma>bienes</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w394">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w395">	<text>servicios</text>	<lemma>servicio</lemma>	<depend head="w393">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w396">	<text>actividades</text>	<lemma>actividad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w397">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w398">	<text>signos</text>	<lemma>signo</lemma>	<depend head="w396">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w399">	<text>distintivos</text>	<lemma>distintivo</lemma>	<depend head="w398">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w400">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w401">	<text>establecimientos</text>	<lemma>establecimiento</lemma>	<depend head="w398">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w402">	<text>o</text>	<lemma>o</lemma>	<depend head="w401">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w403">	<text>relaciones</text>	<lemma>relación</lemma>	<depend head="w401">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w404">	<text>comerciales</text>	<lemma>comercial</lemma>	<depend head="w403">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w405">	<text>de</text>	<lemma>de</lemma>	<depend head="w407">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w406">	<text>un</text>	<lemma>uno</lemma>	<depend head="w407">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w407">	<text>tercero</text>	<lemma>tercero</lemma>	<depend head="w403">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD MSC SG</morpho></tags></token>
+<token id="w408">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w409">	<text>que</text>	<lemma>que</lemma>	<depend head="w410">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w410">	<text>sean</text>	<lemma>ser</lemma>	<depend head="w407">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w411">	<text>susceptibles</text>	<lemma>susceptible</lemma>	<depend head="w410">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w412">	<text>de</text>	<lemma>de</lemma>	<depend head="w413">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w413">	<text>menoscabar</text>	<lemma>menoscabar</lemma>	<depend head="w411">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w414">	<text>su</text>	<lemma>suyo</lemma>	<depend head="w415">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Poss tonic UTR SG P3</morpho></tags></token>
+<token id="w415">	<text>reputación</text>	<lemma>reputación</lemma>	<depend head="w413">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w416">	<text>en</text>	<lemma>en</lemma>	<depend head="w418">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w417">	<text>el</text>	<lemma>el</lemma>	<depend head="w418">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w418">	<text>mercado</text>	<lemma>mercado</lemma>	<depend head="w415">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w419">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w421">
+<token id="w422">	<text>Son</text>	<lemma>ser</lemma>	<depend head="w421">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w423">	<text>también</text>	<lemma>también</lemma>	<depend head="w424">ad</depend>	<tags><syntax>@PREMOD</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w424">	<text>ilícitas</text>	<lemma>ilícito</lemma>	<depend head="w422">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w425">	<text>las</text>	<lemma>las</lemma>	<depend head="w426">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w426">	<text>expresiones</text>	<lemma>expresión</lemma>	<depend head="w422">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w427">	<text>dirigidas</text>	<lemma>dirigir</lemma>	<depend head="w426">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF FEM PL</morpho></tags></token>
+<token id="w428">	<text>a</text>	<lemma>a</lemma>	<depend head="w429">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w429">	<text>desacreditar</text>	<lemma>desacreditar</lemma>	<depend head="w427">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w430">	<text>los</text>	<lemma>los</lemma>	<depend head="w429">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers MSC PL P3 ACC</morpho></tags></token>
+<token id="w431">	<text>o</text>	<lemma>o</lemma>	<depend head="w429">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w432">	<text>ridiculizar</text>	<lemma>ridiculizar</lemma>	<depend head="w429">cc</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w433">	<text>los</text>	<lemma>los</lemma>	<depend head="w432">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers MSC PL P3 ACC</morpho></tags></token>
+<token id="w434">	<text>sin</text>	<lemma>sin</lemma>	<depend head="w435">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w435">	<text>referencia</text>	<lemma>referencia</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w436">	<text>objetiva</text>	<lemma>objetivo</lemma>	<depend head="w435">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w437">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w439">
+<token id="w440">	<text>d</text>	<lemma>d</lemma>	<depend head="w439">main</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w441">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w442">	<text>Las</text>	<lemma>las</lemma>	<depend head="w443">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w443">	<text>manifestaciones</text>	<lemma>manifestación</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w444">	<text>agraviantes</text>	<lemma>agraviante</lemma>	<depend head="w443">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w445">	<text>que</text>	<lemma>que</lemma>	<depend head="w446">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w446">	<text>versen</text>	<lemma>versar</lemma>	<depend head="w443">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w447">	<text>sobre</text>	<lemma>sobre</lemma>	<depend head="w449">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w448">	<text>la</text>	<lemma>la</lemma>	<depend head="w449">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w449">	<text>nacionalidad</text>	<lemma>nacionalidad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w450">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w451">	<text>las</text>	<lemma>las</lemma>	<depend head="w452">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w452">	<text>creencias</text>	<lemma>creencia</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w453">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w454">	<text>ideologías</text>	<lemma>ideología</lemma>	<depend head="w452">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w455">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w456">	<text>vida</text>	<lemma>vida</lemma>	<depend head="w454">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w457">	<text>privada</text>	<lemma>privado</lemma>	<depend head="w456">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w458">	<text>o</text>	<lemma>o</lemma>	<depend head="w456">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w459">	<text>cualquier</text>	<lemma>cualquiera</lemma>	<depend head="w460">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON SG</morpho></tags></token>
+<token id="w460">	<text>otra</text>	<lemma>otro</lemma>	<depend head="w461">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w461">	<text>circunstancia</text>	<lemma>circunstancia</lemma>	<depend head="w456">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w462">	<text>personal</text>	<lemma>personal</lemma>	<depend head="w461">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w463">	<text>de</text>	<lemma>de</lemma>	<depend head="w466">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w464">	<text>l</text>	<lemma>el</lemma>	<depend head="w466">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w465">	<text>tercero</text>	<lemma>tercero</lemma>	<depend head="w466">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>NUM ORD MSC SG</morpho></tags></token>
+<token id="w466">	<text>afectado</text>	<lemma>afectado</lemma>	<depend head="w461">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w467">	<text>y</text>	<lemma>y</lemma>	<depend head="w446">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w468">	<text>que</text>	<lemma>que</lemma>	<depend head="w470">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w469">	<text>no</text>	<lemma>no</lemma>	<depend head="w470">neg</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w470">	<text>tenga</text>	<lemma>tener</lemma>	<depend head="w446">cc</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w471">	<text>relación</text>	<lemma>relación</lemma>	<depend head="w470">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w472">	<text>directa</text>	<lemma>directo</lemma>	<depend head="w471">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w473">	<text>con</text>	<lemma>con</lemma>	<depend head="w475">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w474">	<text>la</text>	<lemma>la</lemma>	<depend head="w475">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w475">	<text>calidad</text>	<lemma>calidad</lemma>	<depend head="w470">com</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w476">	<text>de</text>	<lemma>de</lemma>	<depend head="w478">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w477">	<text>l</text>	<lemma>el</lemma>	<depend head="w478">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w478">	<text>bien</text>	<lemma>bien</lemma>	<depend head="w475">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w479">	<text>o</text>	<lemma>o</lemma>	<depend head="w475">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w480">	<text>servicio</text>	<lemma>servicio</lemma>	<depend head="w475">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w481">	<text>prestado</text>	<lemma>prestado</lemma>	<depend head="w480">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w482">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w484">
+<token id="w485">	<text>e</text>	<lemma>e</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w486">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w487">	<text>Toda</text>	<lemma>todo</lemma>	<depend head="w488">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w488">	<text>comparación</text>	<lemma>comparación</lemma>	<depend head="w514">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w489">	<text>de</text>	<lemma>de</lemma>	<depend head="w491">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w490">	<text>los</text>	<lemma>los</lemma>	<depend head="w491">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w491">	<text>bienes</text>	<lemma>bienes</lemma>	<depend head="w488">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w492">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w493">	<text>servicios</text>	<lemma>servicio</lemma>	<depend head="w491">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w494">	<text>actividades</text>	<lemma>actividad</lemma>	<depend head="w493">mod</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w495">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w496">	<text>establecimientos</text>	<lemma>establecimiento</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w497">	<text>propios</text>	<lemma>propio</lemma>	<depend head="w496">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w498">	<text>o</text>	<lemma>o</lemma>	<depend head="w497">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w499">	<text>ajenos</text>	<lemma>ajeno</lemma>	<depend head="w497">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w500">	<text>con</text>	<lemma>con</lemma>	<depend head="w501">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w501">	<text>los</text>	<lemma>los</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON Pers MSC PL ACC</morpho></tags></token>
+<token id="w502">	<text>de</text>	<lemma>de</lemma>	<depend head="w504">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w503">	<text>un</text>	<lemma>uno</lemma>	<depend head="w504">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w504">	<text>tercero</text>	<lemma>tercero</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD MSC SG</morpho></tags></token>
+<token id="w505">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w506">	<text>cuando</text>	<lemma>cuando</lemma>	<depend head="w508">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w507">	<text>se</text>	<lemma>se</lemma>	<depend head="w508">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w508">	<text>funde</text>	<lemma>fundar</lemma>	<depend head="w504">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho></tags>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>ZERO_PR</subject></tags></token>
+<token id="w509">	<text>en</text>	<lemma>en</lemma>	<depend head="w511">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w510">	<text>algún</text>	<lemma>algún</lemma>	<depend head="w511">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w511">	<text>antecedente</text>	<lemma>antecedente</lemma>	<depend head="w508">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w512">	<text>que</text>	<lemma>que</lemma>	<depend head="w514">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w513">	<text>no</text>	<lemma>no</lemma>	<depend head="w514">neg</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w514">	<text>sea</text>	<lemma>ser</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w515">	<text>veraz</text>	<lemma>veraz</lemma>	<depend head="w514">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w516">	<text>y</text>	<lemma>y</lemma>	<depend head="w515">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w517">	<text>demostrable</text>	<lemma>demostrable</lemma>	<depend head="w515">cc</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w518">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w519">	<text>o</text>	<lemma>o</lemma>	<depend head="w514">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w520">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w521">	<text>cuando</text>	<lemma>cuando</lemma>	<depend head="w526">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w522">	<text>de</text>	<lemma>de</lemma>	<depend head="w525">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w523">	<text>cualquiera</text>	<lemma>cualquiera</lemma>	<depend head="w524">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON SG</morpho></tags></token>
+<token id="w524">	<text>otra</text>	<lemma>otro</lemma>	<depend head="w525">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w525">	<text>forma</text>	<lemma>forma</lemma>	<depend head="w526">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w526">	<text>infrinja</text>	<lemma>infringir</lemma>	<depend head="w514">cc</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>ZERO</subject></tags></token>
+<token id="w527">	<text>las</text>	<lemma>las</lemma>	<depend head="w528">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w528">	<text>normas</text>	<lemma>norma</lemma>	<depend head="w526">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w529">	<text>de</text>	<lemma>de</lemma>	<depend head="w531">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w530">	<text>esta</text>	<lemma>este</lemma>	<depend head="w531">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w531">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w528">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w532">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w534">
+<token id="w535">	<text>f</text>	<lemma>f</lemma>	<depend head="w534">main</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w536">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w537">	<text>Toda</text>	<lemma>todo</lemma>	<depend head="w538">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w538">	<text>conducta</text>	<lemma>conducta</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w539">	<text>que</text>	<lemma>que</lemma>	<depend head="w540">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w540">	<text>persiga</text>	<lemma>perseguir</lemma>	<depend head="w538">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w541">	<text>inducir</text>	<lemma>inducir</lemma>	<depend head="w540">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w542">	<text>a</text>	<lemma>a</lemma>	<depend head="w543">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w543">	<text>proveedores</text>	<lemma>proveedor</lemma>	<depend head="w541">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w544">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w545">	<text>clientes</text>	<lemma>cliente</lemma>	<depend head="w543">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w546">	<text>u</text>	<lemma>u</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w547">	<text>otros</text>	<lemma>otro</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON MSC PL</morpho></tags>	<tags><syntax>@PREMOD</syntax> <morpho>PRON MSC PL</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>PRON MSC PL</morpho></tags></token>
+<token id="w548">	<text>contratantes</text>	<lemma>contratante</lemma>		<tags><syntax>@NH</syntax> <morpho>N UTR PL</morpho></tags>	<tags><syntax>@NH</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w549">	<text>a</text>	<lemma>a</lemma>	<depend head="w550">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w550">	<text>infringir</text>	<lemma>infringir</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w551">	<text>los</text>	<lemma>los</lemma>	<depend head="w552">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w552">	<text>deberes</text>	<lemma>deber</lemma>	<depend head="w550">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w553">	<text>contractuales</text>	<lemma>contractual</lemma>	<depend head="w552">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w554">	<text>contraídos</text>	<lemma>contraído</lemma>	<depend head="w553">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w555">	<text>con</text>	<lemma>con</lemma>	<depend head="w557">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w556">	<text>su</text>	<lemma>suyo</lemma>	<depend head="w557">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Poss tonic UTR SG P3</morpho></tags></token>
+<token id="w557">	<text>competidor</text>	<lemma>competidor</lemma>	<depend head="w550">com</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w558">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w560">
+<token id="w561">	<text>g</text>	<lemma>g</lemma>	<depend head="w560">main</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w562">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w563">	<text>El</text>	<lemma>el</lemma>	<depend head="w564">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w564">	<text>ejercicio</text>	<lemma>ejercicio</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w565">	<text>manifiestamente</text>	<lemma>manifiestamente</lemma>	<depend head="w566">ad</depend>	<tags><syntax>@PREMOD</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w566">	<text>abusivo</text>	<lemma>abusivo</lemma>	<depend head="w564">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w567">	<text>de</text>	<lemma>de</lemma>	<depend head="w568">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w568">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w564">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w569">	<text>judiciales</text>	<lemma>judicial</lemma>	<depend head="w568">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w570">	<text>con</text>	<lemma>con</lemma>	<depend head="w572">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w571">	<text>la</text>	<lemma>la</lemma>	<depend head="w572">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w572">	<text>finalidad</text>	<lemma>finalidad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w573">	<text>de</text>	<lemma>de</lemma>	<depend head="w574">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w574">	<text>entorpecer</text>	<lemma>entorpecer</lemma>	<depend head="w572">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w575">	<text>la</text>	<lemma>la</lemma>	<depend head="w576">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w576">	<text>operación</text>	<lemma>operación</lemma>	<depend head="w574">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w577">	<text>de</text>	<lemma>de</lemma>	<depend head="w579">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w578">	<text>un</text>	<lemma>uno</lemma>	<depend head="w579">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w579">	<text>agente</text>	<lemma>agente</lemma>	<depend head="w576">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N UTR SG</morpho></tags></token>
+<token id="w580">	<text>de</text>	<lemma>de</lemma>	<depend head="w581">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w581">	<text>mercado</text>	<lemma>mercado</lemma>	<depend head="w579">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w582">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w584">
+<token id="w585">	<text>Capitulo</text>	<lemma>capitulo</lemma>	<depend head="w584">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w586">	<text>III</text>	<lemma>iii</lemma>	<depend head="w585">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w587">	<text>De</text>	<lemma>de</lemma>	<depend head="w589">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w588">	<text>las</text>	<lemma>las</lemma>	<depend head="w589">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w589">	<text>Acciones</text>	<lemma>acción</lemma>	<depend head="w586">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w590">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w591">	<text>Procedimiento</text>	<lemma>procedimiento</lemma>	<depend head="w589">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w592">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w593">	<text>Tribunal</text>	<lemma>tribunal</lemma>	<depend head="w591">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w594">	<text>Competente</text>	<lemma>competente</lemma>	<depend head="w593">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w595">	<text>y</text>	<lemma>y</lemma>	<depend head="w594">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w596">	<text>Sanciones</text>	<lemma>sanción</lemma>	<depend head="w594">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+</sentence>
+<paragraph/><sentence id="w598">
+<token id="w599">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w598">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w600">	<text>5°</text>	<lemma>5o</lemma>	<depend head="w599">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w601">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w602">
+<token id="w603">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w604">	<text>Contra</text>	<lemma>contra</lemma>	<depend head="w606">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w605">	<text>los</text>	<lemma>los</lemma>	<depend head="w606">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w606">	<text>actos</text>	<lemma>acto</lemma>	<depend head="w610">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w607">	<text>de</text>	<lemma>de</lemma>	<depend head="w608">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w608">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w606">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w609">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w608">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w610">	<text>pueden</text>	<lemma>poder</lemma>	<depend head="w602">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES PL P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w611">	<text>ejercer</text>	<lemma>ejercer</lemma>	<depend head="w610">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w612">	<text>se</text>	<lemma>se</lemma>	<depend head="w611">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Refl ACC</morpho></tags></token>
+<token id="w613">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w614">	<text>conjunta</text>	<lemma>conjunto</lemma>		<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w615">	<text>o</text>	<lemma>o</lemma>	<depend head="w614">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w616">	<text>separadamente</text>	<lemma>separadamente</lemma>	<depend head="w614">cc</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w617">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w618">	<text>las</text>	<lemma>las</lemma>	<depend head="w620">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w619">	<text>siguientes</text>	<lemma>siguiente</lemma>	<depend head="w620">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w620">	<text>acciones</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w621">	<text>:</text>	<lemma>:</lemma></token>
+<token id="w622">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w623">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w624">	<text>Acción</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w625">	<text>de</text>	<lemma>de</lemma>	<depend head="w626">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w626">	<text>cesación</text>	<lemma>cesación</lemma>	<depend head="w624">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w627">	<text>de</text>	<lemma>de</lemma>	<depend head="w629">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w628">	<text>l</text>	<lemma>el</lemma>	<depend head="w629">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w629">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w626">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w630">	<text>o</text>	<lemma>o</lemma>	<depend head="w629">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w631">	<text>de</text>	<lemma>de</lemma>	<depend head="w632">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w632">	<text>prohibición</text>	<lemma>prohibición</lemma>	<depend head="w629">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w633">	<text>de</text>	<lemma>de</lemma>	<depend head="w635">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w634">	<text>l</text>	<lemma>el</lemma>	<depend head="w635">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w635">	<text>mismo</text>	<lemma>mismo</lemma>	<depend head="w632">mod</depend>	<tags><syntax>@NH</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w636">	<text>si</text>	<lemma>si</lemma>	<depend head="w641">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w637">	<text>aún</text>	<lemma>aún</lemma>	<depend head="w638">ad</depend>	<tags><syntax>@PREMOD</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w638">	<text>no</text>	<lemma>no</lemma>	<depend head="w641">neg</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w639">	<text>se</text>	<lemma>se</lemma>	<depend head="w641">dat</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 DAT</morpho></tags></token>
+<token id="w640">	<text>ha</text>	<lemma>haber</lemma>	<depend head="w641">v-ch</depend>	<tags><syntax>@AUX</syntax> <morpho>V IND PRES SG P3</morpho> <subject>ZERO_PR</subject></tags></token>
+<token id="w641">	<text>puesto</text>	<lemma>poner</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC SG</morpho></tags></token>
+<token id="w642">	<text>en</text>	<lemma>en</lemma>	<depend head="w643">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w643">	<text>práctica</text>	<lemma>práctica</lemma>	<depend head="w641">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w644">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w646">
+<token id="w647">	<text>b</text>	<lemma>b</lemma>	<depend head="w646">main</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w648">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w649">	<text>Acción</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w650">	<text>declarativa</text>	<lemma>declarativo</lemma>	<depend head="w649">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w651">	<text>de</text>	<lemma>de</lemma>	<depend head="w652">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w652">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w649">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w653">	<text>de</text>	<lemma>de</lemma>	<depend head="w654">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w654">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w652">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w655">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w654">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w656">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w657">	<text>si</text>	<lemma>si</lemma>	<depend head="w664">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w658">	<text>la</text>	<lemma>la</lemma>	<depend head="w659">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w659">	<text>perturbación</text>	<lemma>perturbación</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w660">	<text>creada</text>	<lemma>creado</lemma>	<depend head="w659">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w661">	<text>por</text>	<lemma>por</lemma>	<depend head="w663">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w662">	<text>el</text>	<lemma>el</lemma>	<depend head="w663">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w663">	<text>mismo</text>	<lemma>mismo</lemma>	<depend head="w664">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w664">	<text>subsiste</text>	<lemma>subsistir</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w665">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w667">
+<token id="w668">	<text>c</text>	<lemma>c</lemma>	<depend head="w667">main</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w669">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w670">	<text>Acción</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w671">	<text>de</text>	<lemma>de</lemma>	<depend head="w672">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w672">	<text>remoción</text>	<lemma>remoción</lemma>	<depend head="w670">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w673">	<text>de</text>	<lemma>de</lemma>	<depend head="w675">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w674">	<text>los</text>	<lemma>los</lemma>	<depend head="w675">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w675">	<text>efectos</text>	<lemma>efecto</lemma>	<depend head="w672">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w676">	<text>producidos</text>	<lemma>producir</lemma>	<depend head="w675">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC PL</morpho></tags></token>
+<token id="w677">	<text>por</text>	<lemma>por</lemma>	<depend head="w679">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w678">	<text>el</text>	<lemma>el</lemma>	<depend head="w679">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w679">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w676">agt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w680">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w681">	<text>mediante</text>	<lemma>mediante</lemma>	<depend head="w679">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N UTR SG</morpho></tags></token>
+<token id="w682">	<text>la</text>	<lemma>la</lemma>	<depend head="w683">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w683">	<text>publicación</text>	<lemma>publicación</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w684">	<text>de</text>	<lemma>de</lemma>	<depend head="w686">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w685">	<text>la</text>	<lemma>la</lemma>	<depend head="w686">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w686">	<text>sentencia</text>	<lemma>sentencia</lemma>	<depend head="w683">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w687">	<text>condenatoria</text>	<lemma>condenatorio</lemma>	<depend head="w686">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w688">	<text>o</text>	<lemma>o</lemma>	<depend head="w686">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w689">	<text>de</text>	<lemma>de</lemma>	<depend head="w691">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w690">	<text>una</text>	<lemma>uno</lemma>	<depend head="w691">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w691">	<text>rectificación</text>	<lemma>rectificación</lemma>	<depend head="w686">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w692">	<text>a</text>	<lemma>a</lemma>	<depend head="w693">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w693">	<text>costa</text>	<lemma>costa</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w694">	<text>de</text>	<lemma>de</lemma>	<depend head="w696">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w695">	<text>l</text>	<lemma>el</lemma>	<depend head="w696">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w696">	<text>autor</text>	<lemma>autor</lemma>	<depend head="w693">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w697">	<text>de</text>	<lemma>de</lemma>	<depend head="w699">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w698">	<text>l</text>	<lemma>el</lemma>	<depend head="w699">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w699">	<text>ilícito</text>	<lemma>ilícito</lemma>	<depend head="w696">mod</depend>	<tags><syntax>@NH</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w700">	<text>u</text>	<lemma>u</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w701">	<text>otro</text>	<lemma>otro</lemma>	<depend head="w702">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w702">	<text>medio</text>	<lemma>medio</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w703">	<text>idóneo</text>	<lemma>idóneo</lemma>	<depend head="w702">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w704">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w706">
+<token id="w707">	<text>d</text>	<lemma>d</lemma>	<depend head="w706">main</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w708">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w709">	<text>Acción</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w710">	<text>de</text>	<lemma>de</lemma>	<depend head="w711">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w711">	<text>indemnización</text>	<lemma>indemnización</lemma>	<depend head="w709">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w712">	<text>de</text>	<lemma>de</lemma>	<depend head="w714">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w713">	<text>los</text>	<lemma>los</lemma>	<depend head="w714">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w714">	<text>prejuicios</text>	<lemma>prejuicio</lemma>	<depend head="w711">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w715">	<text>ocasionados</text>	<lemma>ocasionar</lemma>	<depend head="w714">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC PL</morpho></tags></token>
+<token id="w716">	<text>por</text>	<lemma>por</lemma>	<depend head="w718">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w717">	<text>el</text>	<lemma>el</lemma>	<depend head="w718">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w718">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w715">agt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w719">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w720">	<text>sujeta</text>	<lemma>sujetar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF FEM SG</morpho></tags></token>
+<token id="w721">	<text>a</text>	<lemma>a</lemma>	<depend head="w723">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w722">	<text>las</text>	<lemma>las</lemma>	<depend head="w723">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w723">	<text>disposiciones</text>	<lemma>disposición</lemma>	<depend head="w720">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w724">	<text>de</text>	<lemma>de</lemma>	<depend head="w726">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w725">	<text>l</text>	<lemma>el</lemma>	<depend head="w726">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w726">	<text>Título</text>	<lemma>título</lemma>	<depend head="w723">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w727">	<text>XXXV</text>	<lemma>xxxv</lemma>	<depend head="w726">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w728">	<text>de</text>	<lemma>de</lemma>	<depend head="w730">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w729">	<text>l</text>	<lemma>el</lemma>	<depend head="w730">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w730">	<text>Libro</text>	<lemma>libro</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w731">	<text>IV</text>	<lemma>iv</lemma>	<depend head="w730">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w732">	<text>de</text>	<lemma>de</lemma>	<depend head="w734">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w733">	<text>l</text>	<lemma>el</lemma>	<depend head="w734">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w734">	<text>Código</text>	<lemma>código</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w735">	<text>Civil</text>	<lemma>civil</lemma>	<depend head="w734">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w736">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w738">
+<token id="w739">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w738">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w740">	<text>6°</text>	<lemma>6o</lemma>	<depend head="w739">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w741">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w742">
+<token id="w743">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w744">	<text>Cualquiera</text>	<lemma>cualquiera</lemma>	<depend head="w763">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON SG</morpho></tags></token>
+<token id="w745">	<text>que</text>	<lemma>que</lemma>	<depend head="w746">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w746">	<text>resulte</text>	<lemma>resultar</lemma>	<depend head="w744">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w747">	<text>directa</text>	<lemma>directo</lemma>	<depend head="w746">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w748">	<text>y</text>	<lemma>y</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w749">	<text>personalmente</text>	<lemma>personalmente</lemma>	<depend head="w746">man</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w750">	<text>amenazado</text>	<lemma>amenazado</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC SG</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w751">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w752">	<text>perjudicado</text>	<lemma>perjudicar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC SG</morpho></tags></token>
+<token id="w753">	<text>en</text>	<lemma>en</lemma>	<depend head="w755">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w754">	<text>sus</text>	<lemma>suyo</lemma>	<depend head="w755">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Poss tonic UTR PL P3</morpho></tags></token>
+<token id="w755">	<text>intereses</text>	<lemma>interés</lemma>	<depend head="w752">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w756">	<text>legítimos</text>	<lemma>legítimo</lemma>	<depend head="w755">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC PL</morpho></tags></token>
+<token id="w757">	<text>por</text>	<lemma>por</lemma>	<depend head="w759">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w758">	<text>un</text>	<lemma>uno</lemma>	<depend head="w759">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w759">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w752">agt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w760">	<text>de</text>	<lemma>de</lemma>	<depend head="w761">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w761">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w759">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w762">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w761">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w763">	<text>podrá</text>	<lemma>poder</lemma>	<depend head="w742">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w764">	<text>ejercer</text>	<lemma>ejercer</lemma>	<depend head="w763">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w765">	<text>las</text>	<lemma>las</lemma>	<depend head="w766">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w766">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w764">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w767">	<text>señaladas</text>	<lemma>señalado</lemma>	<depend head="w766">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w768">	<text>en</text>	<lemma>en</lemma>	<depend head="w770">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w769">	<text>las</text>	<lemma>las</lemma>	<depend head="w770">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w770">	<text>letras</text>	<lemma>letra</lemma>	<depend head="w764">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w771">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w772">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w773">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w774">	<text>d</text>	<lemma>d</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w775">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w776">	<text>de</text>	<lemma>de</lemma>	<depend head="w778">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w777">	<text>l</text>	<lemma>el</lemma>	<depend head="w778">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w778">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w779">	<text>anterior</text>	<lemma>anterior</lemma>	<depend head="w778">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A CMP UTR SG</morpho></tags></token>
+<token id="w780">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w782">
+<token id="w783">	<text>Con</text>	<lemma>con</lemma>	<depend head="w784">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w784">	<text>todo</text>	<lemma>todo</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w785">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w786">	<text>no</text>	<lemma>no</lemma>	<depend head="w787">neg</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w787">	<text>habrá</text>	<lemma>haber</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>IMPERSONAL</subject></tags></token>
+<token id="w788">	<text>lugar</text>	<lemma>lugar</lemma>	<depend head="w787">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w789">	<text>a</text>	<lemma>a</lemma>	<depend head="w790">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w790">	<text>indemnización</text>	<lemma>indemnización</lemma>	<depend head="w787">dat</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w791">	<text>de</text>	<lemma>de</lemma>	<depend head="w792">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w792">	<text>prejuicios</text>	<lemma>prejuicio</lemma>	<depend head="w790">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w793">	<text>de</text>	<lemma>de</lemma>	<depend head="w794">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w794">	<text>acuerdo</text>	<lemma>acuerdo</lemma>	<depend head="w792">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w795">	<text>con</text>	<lemma>con</lemma>	<depend head="w797">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w796">	<text>esta</text>	<lemma>este</lemma>	<depend head="w797">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w797">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w787">com</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w798">	<text>si</text>	<lemma>si</lemma>	<depend head="w804">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w799">	<text>el</text>	<lemma>el</lemma>	<depend head="w800">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w800">	<text>demandado</text>	<lemma>demandado</lemma>	<depend head="w802">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w801">	<text>ya</text>	<lemma>ya</lemma>	<depend head="w804">meta</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w802">	<text>hubiese</text>	<lemma>haber</lemma>	<depend head="w803">v-ch</depend>	<tags><syntax>@AUX</syntax> <morpho>V SUB IMPF SG P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w803">	<text>sido</text>	<lemma>ser</lemma>	<depend head="w804">v-ch</depend>	<tags><syntax>@AUX</syntax> <morpho>V PCP PERF MSC SG</morpho></tags></token>
+<token id="w804">	<text>condenado</text>	<lemma>condenar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC SG</morpho></tags></token>
+<token id="w805">	<text>a</text>	<lemma>a</lemma>	<depend head="w806">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w806">	<text>reparar</text>	<lemma>reparar</lemma>	<depend head="w804">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w807">	<text>el</text>	<lemma>el</lemma>	<depend head="w808">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w808">	<text>mismo</text>	<lemma>mismo</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w809">	<text>daño</text>	<lemma>daño</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w810">	<text>de</text>	<lemma>de</lemma>	<depend head="w811">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w811">	<text>conformidad</text>	<lemma>conformidad</lemma>	<depend head="w809">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w812">	<text>con</text>	<lemma>con</lemma>	<depend head="w814">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w813">	<text>otro</text>	<lemma>otro</lemma>	<depend head="w814">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w814">	<text>ordenamiento</text>	<lemma>ordenamiento</lemma>	<depend head="w806">com</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w815">	<text>legal</text>	<lemma>legal</lemma>	<depend head="w814">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w816">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w818">
+<token id="w819">	<text>Las</text>	<lemma>las</lemma>	<depend head="w820">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w820">	<text>asociaciones</text>	<lemma>asociación</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w821">	<text>gremiales</text>	<lemma>gremial</lemma>	<depend head="w820">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w822">	<text>que</text>	<lemma>que</lemma>	<depend head="w823">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w823">	<text>tengan</text>	<lemma>tener</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w824">	<text>por</text>	<lemma>por</lemma>	<depend head="w825">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w825">	<text>función</text>	<lemma>función</lemma>	<depend head="w823">cnt</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w826">	<text>efectiva</text>	<lemma>efectivo</lemma>	<depend head="w825">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w827">	<text>la</text>	<lemma>la</lemma>	<depend head="w828">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w828">	<text>defensa</text>	<lemma>defensa</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w829">	<text>de</text>	<lemma>de</lemma>	<depend head="w831">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w830">	<text>los</text>	<lemma>los</lemma>	<depend head="w831">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w831">	<text>intereses</text>	<lemma>interés</lemma>	<depend head="w828">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w832">	<text>de</text>	<lemma>de</lemma>	<depend head="w833">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w833">	<text>agentes</text>	<lemma>agente</lemma>	<depend head="w831">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N UTR PL</morpho></tags></token>
+<token id="w834">	<text>de</text>	<lemma>de</lemma>	<depend head="w836">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w835">	<text>l</text>	<lemma>el</lemma>	<depend head="w836">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w836">	<text>mercado</text>	<lemma>mercado</lemma>	<depend head="w833">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w837">	<text>podrán</text>	<lemma>poder</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w838">	<text>interponer</text>	<lemma>interponer</lemma>	<depend head="w837">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w839">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w840">	<text>en</text>	<lemma>en</lemma>	<depend head="w841">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w841">	<text>interés</text>	<lemma>interés</lemma>	<depend head="w838">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w842">	<text>de</text>	<lemma>de</lemma>	<depend head="w844">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w843">	<text>sus</text>	<lemma>suyo</lemma>	<depend head="w844">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Poss tonic UTR PL P3</morpho></tags></token>
+<token id="w844">	<text>miembros</text>	<lemma>miembro</lemma>	<depend head="w841">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w845">	<text>lesionados</text>	<lemma>lesionar</lemma>	<depend head="w844">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC PL</morpho></tags></token>
+<token id="w846">	<text>por</text>	<lemma>por</lemma>	<depend head="w848">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w847">	<text>un</text>	<lemma>uno</lemma>	<depend head="w848">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w848">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w845">agt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w849">	<text>de</text>	<lemma>de</lemma>	<depend head="w850">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w850">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w848">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w851">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w850">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w852">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w853">	<text>las</text>	<lemma>las</lemma>	<depend head="w854">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w854">	<text>acciones</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w855">	<text>contempladas</text>	<lemma>contemplado</lemma>	<depend head="w854">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w856">	<text>en</text>	<lemma>en</lemma>	<depend head="w858">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w857">	<text>las</text>	<lemma>las</lemma>	<depend head="w858">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w858">	<text>letras</text>	<lemma>letra</lemma>	<depend head="w845">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w859">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w860">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w861">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w862">	<text>c</text>	<lemma>c</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w863">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w864">	<text>de</text>	<lemma>de</lemma>	<depend head="w866">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w865">	<text>l</text>	<lemma>el</lemma>	<depend head="w866">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w866">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w867">	<text>anterior</text>	<lemma>anterior</lemma>	<depend head="w866">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A CMP UTR SG</morpho></tags></token>
+<token id="w868">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w870">
+<token id="w871">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w870">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w872">	<text>7°</text>	<lemma>7o</lemma>	<depend head="w871">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w873">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w874">
+<token id="w875">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w876">	<text>Las</text>	<lemma>las</lemma>	<depend head="w877">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w877">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w894">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w878">	<text>de</text>	<lemma>de</lemma>	<depend head="w879">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w879">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w877">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w880">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w879">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w881">	<text>previstas</text>	<lemma>previsto</lemma>	<depend head="w877">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w882">	<text>en</text>	<lemma>en</lemma>	<depend head="w884">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w883">	<text>las</text>	<lemma>las</lemma>	<depend head="w884">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w884">	<text>letras</text>	<lemma>letra</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w885">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w886">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w887">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w888">	<text>c</text>	<lemma>c</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w889">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w890">	<text>de</text>	<lemma>de</lemma>	<depend head="w892">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w891">	<text>l</text>	<lemma>el</lemma>	<depend head="w892">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w892">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w893">	<text>5°</text>	<lemma>5o</lemma>	<depend head="w892">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w894">	<text>prescriben</text>	<lemma>prescribir</lemma>	<depend head="w874">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w895">	<text>en</text>	<lemma>en</lemma>	<depend head="w897">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w896">	<text>el</text>	<lemma>el</lemma>	<depend head="w897">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w897">	<text>plazo</text>	<lemma>plazo</lemma>	<depend head="w894">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w898">	<text>de</text>	<lemma>de</lemma>	<depend head="w900">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w899">	<text>un</text>	<lemma>uno</lemma>	<depend head="w900">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w900">	<text>año</text>	<lemma>año</lemma>	<depend head="w897">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w901">	<text>contado</text>	<lemma>contado</lemma>	<depend head="w897">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w902">	<text>desde</text>	<lemma>desde</lemma>	<depend head="w904">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w903">	<text>la</text>	<lemma>la</lemma>	<depend head="w904">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w904">	<text>fecha</text>	<lemma>fecha</lemma>	<depend head="w894">sou</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w905">	<text>en</text>	<lemma>en</lemma>	<depend head="w906">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w906">	<text>que</text>	<lemma>que</lemma>	<depend head="w907">cla</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w907">	<text>finaliza</text>	<lemma>finalizar</lemma>	<depend head="w904">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w908">	<text>la</text>	<lemma>la</lemma>	<depend head="w909">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w909">	<text>realización</text>	<lemma>realización</lemma>	<depend head="w907">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w910">	<text>de</text>	<lemma>de</lemma>	<depend head="w912">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w911">	<text>l</text>	<lemma>el</lemma>	<depend head="w912">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w912">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w909">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w913">	<text>de</text>	<lemma>de</lemma>	<depend head="w914">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w914">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w912">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w915">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w914">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w916">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w917">	<text>o</text>	<lemma>o</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w918">	<text>desde</text>	<lemma>desde</lemma>	<depend head="w919">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w919">	<text>que</text>	<lemma>que</lemma>	<depend head="w921">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w920">	<text>fue</text>	<lemma>ser</lemma>	<depend head="w921">v-ch</depend>	<tags><syntax>@AUX</syntax> <morpho>V IND PRET SG P3</morpho> <subject>ZERO_P</subject></tags></token>
+<token id="w921">	<text>conocido</text>	<lemma>conocer</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC SG</morpho></tags></token>
+<token id="w922">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w923">	<text>si</text>	<lemma>si</lemma>	<depend head="w925">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w924">	<text>ello</text>	<lemma>lo</lemma>	<depend head="w925">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers NEU SG P3 NOM</morpho></tags></token>
+<token id="w925">	<text>ocurrió</text>	<lemma>ocurrir</lemma>	<depend head="w921">cnd</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRET SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w926">	<text>con</text>	<lemma>con</lemma>	<depend head="w927">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w927">	<text>posterioridad</text>	<lemma>posterioridad</lemma>	<depend head="w925">com</depend>	<tags><syntax>@NH</syntax> <morpho>Heur N FEM SG</morpho></tags></token>
+<token id="w928">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w930">
+<token id="w931">	<text>La</text>	<lemma>la</lemma>	<depend head="w932">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w932">	<text>acción</text>	<lemma>acción</lemma>	<depend head="w947">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w933">	<text>de</text>	<lemma>de</lemma>	<depend head="w934">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w934">	<text>indemnización</text>	<lemma>indemnización</lemma>	<depend head="w932">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w935">	<text>de</text>	<lemma>de</lemma>	<depend head="w936">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w936">	<text>perjuicios</text>	<lemma>perjuicio</lemma>	<depend head="w934">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w937">	<text>prevista</text>	<lemma>previsto</lemma>	<depend head="w934">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w938">	<text>en</text>	<lemma>en</lemma>	<depend head="w940">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w939">	<text>la</text>	<lemma>la</lemma>	<depend head="w940">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w940">	<text>letra</text>	<lemma>letra</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w941">	<text>d</text>	<lemma>d</lemma>	<depend head="w940">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w942">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w943">	<text>de</text>	<lemma>de</lemma>	<depend head="w945">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w944">	<text>l</text>	<lemma>el</lemma>	<depend head="w945">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w945">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w946">	<text>5°</text>	<lemma>5o</lemma>	<depend head="w945">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w947">	<text>prescribe</text>	<lemma>prescribir</lemma>	<depend head="w930">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w948">	<text>en</text>	<lemma>en</lemma>	<depend head="w950">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w949">	<text>el</text>	<lemma>el</lemma>	<depend head="w950">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w950">	<text>plazo</text>	<lemma>plazo</lemma>	<depend head="w947">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w951">	<text>de</text>	<lemma>de</lemma>	<depend head="w953">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w952">	<text>cuatro</text>	<lemma>cuatro</lemma>	<depend head="w953">qn</depend>	<tags><syntax>@PREMOD</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w953">	<text>años</text>	<lemma>año</lemma>	<depend head="w950">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w954">	<text>contando</text>	<lemma>contar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V GER</morpho></tags></token>
+<token id="w955">	<text>de</text>	<lemma>de</lemma>	<depend head="w958">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w956">	<text>l</text>	<lemma>el</lemma>	<depend head="w958">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w957">	<text>mismo</text>	<lemma>mismo</lemma>	<depend head="w958">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON MSC SG</morpho></tags></token>
+<token id="w958">	<text>modo</text>	<lemma>modo</lemma>	<depend head="w954">advl</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w959">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w960">
+<token id="w961">	<text>El</text>	<lemma>el</lemma>	<depend head="w962">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w962">	<text>ejercicio</text>	<lemma>ejercicio</lemma>	<depend head="w981">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w963">	<text>de</text>	<lemma>de</lemma>	<depend head="w964">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w964">	<text>alguna</text>	<lemma>alguno</lemma>	<depend head="w962">mod</depend>	<tags><syntax>@NH</syntax> <morpho>PRON FEM SG</morpho></tags></token>
+<token id="w965">	<text>de</text>	<lemma>de</lemma>	<depend head="w967">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w966">	<text>las</text>	<lemma>las</lemma>	<depend head="w967">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w967">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w964">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w968">	<text>previstas</text>	<lemma>previsto</lemma>	<depend head="w967">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w969">	<text>en</text>	<lemma>en</lemma>	<depend head="w971">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w970">	<text>las</text>	<lemma>las</lemma>	<depend head="w971">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w971">	<text>letras</text>	<lemma>letra</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w972">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w973">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w974">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w975">	<text>c</text>	<lemma>c</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w976">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w977">	<text>de</text>	<lemma>de</lemma>	<depend head="w979">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w978">	<text>l</text>	<lemma>el</lemma>	<depend head="w979">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w979">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w980">	<text>5°</text>	<lemma>5o</lemma>	<depend head="w979">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w981">	<text>interrumpirá</text>	<lemma>interrumpir</lemma>	<depend head="w960">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w982">	<text>el</text>	<lemma>el</lemma>	<depend head="w983">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w983">	<text>plazo</text>	<lemma>plazo</lemma>	<depend head="w981">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w984">	<text>de</text>	<lemma>de</lemma>	<depend head="w985">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w985">	<text>prescripción</text>	<lemma>prescripción</lemma>	<depend head="w983">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w986">	<text>de</text>	<lemma>de</lemma>	<depend head="w988">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w987">	<text>la</text>	<lemma>la</lemma>	<depend head="w988">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w988">	<text>acción</text>	<lemma>acción</lemma>	<depend head="w985">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w989">	<text>de</text>	<lemma>de</lemma>	<depend head="w990">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w990">	<text>indemnización</text>	<lemma>indemnización</lemma>	<depend head="w988">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w991">	<text>de</text>	<lemma>de</lemma>	<depend head="w992">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w992">	<text>prejuicios</text>	<lemma>prejuicio</lemma>	<depend head="w990">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w993">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w995">
+<token id="w996">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w995">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w997">	<text>8°</text>	<lemma>8o</lemma>	<depend head="w996">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w998">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w999">
+<token id="w1000">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w1001">	<text>Será</text>	<lemma>ser</lemma>	<depend head="w999">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1002">	<text>competente</text>	<lemma>competente</lemma>	<depend head="w1001">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1003">	<text>para</text>	<lemma>para</lemma>	<depend head="w1004">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1004">	<text>conocer</text>	<lemma>conocer</lemma>	<depend head="w1001">cnt</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w1005">	<text>de</text>	<lemma>de</lemma>	<depend head="w1007">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1006">	<text>las</text>	<lemma>las</lemma>	<depend head="w1007">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1007">	<text>causas</text>	<lemma>causa</lemma>	<depend head="w1004">advl</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1008">	<text>de</text>	<lemma>de</lemma>	<depend head="w1010">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1009">	<text>esta</text>	<lemma>este</lemma>	<depend head="w1010">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w1010">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w1007">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1011">	<text>el</text>	<lemma>el</lemma>	<depend head="w1012">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1012">	<text>juzgado</text>	<lemma>juzgado</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1013">	<text>de</text>	<lemma>de</lemma>	<depend head="w1014">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1014">	<text>letras</text>	<lemma>letra</lemma>	<depend head="w1012">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1015">	<text>en</text>	<lemma>en</lemma>	<depend head="w1017">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1016">	<text>lo</text>	<lemma>lo</lemma>	<depend head="w1017">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET NEU SG</morpho></tags></token>
+<token id="w1017">	<text>civil</text>	<lemma>civil</lemma>	<depend head="w1004">loc</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1018">	<text>de</text>	<lemma>de</lemma>	<depend head="w1020">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1019">	<text>l</text>	<lemma>el</lemma>	<depend head="w1020">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1020">	<text>domicilio</text>	<lemma>domicilio</lemma>	<depend head="w1017">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1021">	<text>de</text>	<lemma>de</lemma>	<depend head="w1023">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1022">	<text>l</text>	<lemma>el</lemma>	<depend head="w1023">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1023">	<text>demandado</text>	<lemma>demandado</lemma>	<depend head="w1020">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1024">	<text>o</text>	<lemma>o</lemma>	<depend head="w1023">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1025">	<text>de</text>	<lemma>de</lemma>	<depend head="w1027">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1026">	<text>l</text>	<lemma>el</lemma>	<depend head="w1027">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1027">	<text>actor</text>	<lemma>actor</lemma>	<depend head="w1023">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1028">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1029">	<text>a</text>	<lemma>a</lemma>	<depend head="w1030">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1030">	<text>elección</text>	<lemma>elección</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1031">	<text>de</text>	<lemma>de</lemma>	<depend head="w1033">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1032">	<text>este</text>	<lemma>este</lemma>	<depend head="w1033">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem MSC SG</morpho></tags></token>
+<token id="w1033">	<text>último</text>	<lemma>último</lemma>	<depend head="w1030">mod</depend>	<tags><syntax>@NH</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1034">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w1036">
+<token id="w1037">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w1036">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1038">	<text>9°</text>	<lemma>9o</lemma>	<depend head="w1037">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w1039">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w1040">
+<token id="w1041">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w1042">	<text>Las</text>	<lemma>las</lemma>	<depend head="w1043">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1043">	<text>acciones</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1044">	<text>conferidas</text>	<lemma>conferido</lemma>	<depend head="w1043">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w1045">	<text>por</text>	<lemma>por</lemma>	<depend head="w1047">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1046">	<text>esta</text>	<lemma>este</lemma>	<depend head="w1047">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w1047">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w1044">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1048">	<text>se</text>	<lemma>se</lemma>	<depend head="w1049">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w1049">	<text>tramitarán</text>	<lemma>tramitar</lemma>	<depend head="w1040">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT PL P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w1050">	<text>de</text>	<lemma>de</lemma>	<depend head="w1051">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1051">	<text>acuerdo</text>	<lemma>acuerdo</lemma>	<depend head="w1049">advl</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1052">	<text>a</text>	<lemma>a</lemma>	<depend head="w1054">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1053">	<text>las</text>	<lemma>las</lemma>	<depend head="w1054">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1054">	<text>normas</text>	<lemma>norma</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1055">	<text>de</text>	<lemma>de</lemma>	<depend head="w1057">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1056">	<text>l</text>	<lemma>el</lemma>	<depend head="w1057">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1057">	<text>procedimiento</text>	<lemma>procedimiento</lemma>	<depend head="w1054">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1058">	<text>sumario</text>	<lemma>sumario</lemma>	<depend head="w1057">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1059">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1060">	<text>contempladas</text>	<lemma>contemplar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF FEM PL</morpho></tags></token>
+<token id="w1061">	<text>en</text>	<lemma>en</lemma>	<depend head="w1063">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1062">	<text>el</text>	<lemma>el</lemma>	<depend head="w1063">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1063">	<text>Título</text>	<lemma>título</lemma>	<depend head="w1060">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1064">	<text>XI</text>	<lemma>xi</lemma>	<depend head="w1063">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w1065">	<text>de</text>	<lemma>de</lemma>	<depend head="w1067">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1066">	<text>l</text>	<lemma>el</lemma>	<depend head="w1067">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1067">	<text>Libro</text>	<lemma>libro</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1068">	<text>III</text>	<lemma>iii</lemma>	<depend head="w1067">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w1069">	<text>de</text>	<lemma>de</lemma>	<depend head="w1071">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1070">	<text>l</text>	<lemma>el</lemma>	<depend head="w1071">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1071">	<text>Código</text>	<lemma>código</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1072">	<text>de</text>	<lemma>de</lemma>	<depend head="w1073">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1073">	<text>Procedimiento</text>	<lemma>procedimiento</lemma>	<depend head="w1071">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1074">	<text>Civil</text>	<lemma>civil</lemma>	<depend head="w1073">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1075">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1076">	<text>sin</text>	<lemma>sin</lemma>	<depend head="w1077">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1077">	<text>que</text>	<lemma>que</lemma>	<depend head="w1078">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w1078">	<text>sea</text>	<lemma>ser</lemma>	<depend head="w1060">cnd</depend>	<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1079">	<text>aplicable</text>	<lemma>aplicable</lemma>	<depend head="w1078">comp</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1080">	<text>lo</text>	<lemma>lo</lemma>	<depend head="w1081">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET NEU SG</morpho></tags></token>
+<token id="w1081">	<text>dispuesto</text>	<lemma>dispuesto</lemma>	<depend head="w1078">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1082">	<text>en</text>	<lemma>en</lemma>	<depend head="w1084">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1083">	<text>el</text>	<lemma>el</lemma>	<depend head="w1084">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1084">	<text>artículo</text>	<lemma>artículo</lemma>	<depend head="w1078">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1085">	<text>681</text>	<lemma>681</lemma>	<depend head="w1084">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w1086">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w1088">
+<token id="w1089">	<text>Si</text>	<lemma>si</lemma>	<depend head="w1091">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w1090">	<text>se</text>	<lemma>se</lemma>	<depend head="w1091">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w1091">	<text>ejercen</text>	<lemma>ejercer</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND PRES PL P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w1092">	<text>las</text>	<lemma>las</lemma>	<depend head="w1093">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1093">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w1091">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1094">	<text>referidas</text>	<lemma>referido</lemma>	<depend head="w1093">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w1095">	<text>en</text>	<lemma>en</lemma>	<depend head="w1097">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1096">	<text>las</text>	<lemma>las</lemma>	<depend head="w1097">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1097">	<text>letras</text>	<lemma>letra</lemma>	<depend head="w1091">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1098">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1099">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w1100">	<text>a</text>	<lemma>a</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1101">	<text>c</text>	<lemma>c</lemma>		<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w1102">	<text>)</text>	<lemma>)</lemma></token>
+<token id="w1103">	<text>de</text>	<lemma>de</lemma>	<depend head="w1105">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1104">	<text>l</text>	<lemma>el</lemma>	<depend head="w1105">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1105">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1106">	<text>5°</text>	<lemma>5o</lemma>	<depend head="w1105">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w1107">	<text>y</text>	<lemma>y</lemma>		<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1108">	<text>luego</text>	<lemma>luego</lemma>	<depend head="w1091">tmp</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w1109">	<text>la</text>	<lemma>la</lemma>	<depend head="w1110">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1110">	<text>acción</text>	<lemma>acción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1111">	<text>indemnizatoria</text>	<lemma>indemnizatoria</lemma>	<depend head="w1110">mod</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>Heur N FEM SG</morpho></tags></token>
+<token id="w1112">	<text>en</text>	<lemma>en</lemma>	<depend head="w1113">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1113">	<text>juicio</text>	<lemma>juicio</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1114">	<text>separado</text>	<lemma>separado</lemma>	<depend head="w1113">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1115">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1116">	<text>los</text>	<lemma>los</lemma>	<depend head="w1117">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1117">	<text>hechos</text>	<lemma>hecho</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1118">	<text>establecidos</text>	<lemma>establecer</lemma>	<depend head="w1117">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC PL</morpho></tags></token>
+<token id="w1119">	<text>en</text>	<lemma>en</lemma>	<depend head="w1120">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1120">	<text>juicio</text>	<lemma>juicio</lemma>	<depend head="w1118">phr</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1121">	<text>entre</text>	<lemma>entre</lemma>	<depend head="w1123">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1122">	<text>las</text>	<lemma>las</lemma>	<depend head="w1123">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1123">	<text>mismas</text>	<lemma>mismo</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON FEM PL</morpho></tags></token>
+<token id="w1124">	<text>partes</text>	<lemma>parte</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1125">	<text>respecto</text>	<lemma>respecto</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1126">	<text>de</text>	<lemma>de</lemma>	<depend head="w1128">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1127">	<text>aquellas</text>	<lemma>aquellas</lemma>	<depend head="w1128">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM PL</morpho></tags></token>
+<token id="w1128">	<text>acciones</text>	<lemma>acción</lemma>	<depend head="w1130">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1129">	<text>se</text>	<lemma>se</lemma>	<depend head="w1130">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w1130">	<text>tendrán</text>	<lemma>tener</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT PL P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w1131">	<text>por</text>	<lemma>por</lemma>	<depend head="w1132">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1132">	<text>probados</text>	<lemma>probado</lemma>	<depend head="w1130">cnt</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1133">	<text>en</text>	<lemma>en</lemma>	<depend head="w1135">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1134">	<text>el</text>	<lemma>el</lemma>	<depend head="w1135">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1135">	<text>juicio</text>	<lemma>juicio</lemma>	<depend head="w1130">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1136">	<text>en</text>	<lemma>en</lemma>	<depend head="w1137">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1137">	<text>que</text>	<lemma>que</lemma>	<depend head="w1139">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w1138">	<text>se</text>	<lemma>se</lemma>	<depend head="w1139">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 NOM</morpho></tags></token>
+<token id="w1139">	<text>haga</text>	<lemma>hacer</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V SUB PRES SG P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w1140">	<text>vales</text>	<lemma>val</lemma>	<depend head="w1139">oc</depend>	<tags><syntax>@NH</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w1141">	<text>esta</text>	<lemma>este</lemma>	<depend head="w1142">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w1142">	<text>última</text>	<lemma>último</lemma>	<depend head="w1139">obj</depend>	<tags><syntax>@NH</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w1143">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w1145">
+<token id="w1146">	<text>Contra</text>	<lemma>contra</lemma>	<depend head="w1148">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1147">	<text>la</text>	<lemma>la</lemma>	<depend head="w1148">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1148">	<text>sentencia</text>	<lemma>sentencia</lemma>	<depend head="w1149">cla</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1149">	<text>procederá</text>	<lemma>proceder</lemma>	<depend head="w1145">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1150">	<text>todos</text>	<lemma>todo</lemma>	<depend head="w1151">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1151">	<text>los</text>	<lemma>los</lemma>	<depend head="w1152">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1152">	<text>recursos</text>	<lemma>recurso</lemma>	<depend head="w1149">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1153">	<text>que</text>	<lemma>que</lemma>	<depend head="w1154">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w1154">	<text>franquea</text>	<lemma>franquear</lemma>	<depend head="w1152">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1155">	<text>la</text>	<lemma>la</lemma>	<depend head="w1156">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1156">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w1154">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1157">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1158">	<text>de</text>	<lemma>de</lemma>	<depend head="w1159">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1159">	<text>acuerdo</text>	<lemma>acuerdo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1160">	<text>con</text>	<lemma>con</lemma>		<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1161">	<text>las</text>	<lemma>las</lemma>		<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1162">	<text>regla</text>	<lemma>regla</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1163">	<text>contenidas</text>	<lemma>contenido</lemma>		<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w1164">	<text>en</text>	<lemma>en</lemma>	<depend head="w1166">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1165">	<text>el</text>	<lemma>el</lemma>	<depend head="w1166">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1166">	<text>Código</text>	<lemma>código</lemma>	<depend head="w1154">loc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1167">	<text>de</text>	<lemma>de</lemma>	<depend head="w1168">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1168">	<text>Procedimiento</text>	<lemma>procedimiento</lemma>	<depend head="w1166">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1169">	<text>Civil</text>	<lemma>civil</lemma>	<depend head="w1168">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1170">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w1172">
+<token id="w1173">	<text>Si</text>	<lemma>si</lemma>	<depend head="w1174">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w1174">	<text>existe</text>	<lemma>existir</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1175">	<text>un</text>	<lemma>uno</lemma>	<depend head="w1176">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1176">	<text>indicio</text>	<lemma>indicio</lemma>	<depend head="w1174">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1177">	<text>grave</text>	<lemma>grave</lemma>	<depend head="w1176">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1178">	<text>y</text>	<lemma>y</lemma>	<depend head="w1177">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1179">	<text>preciso</text>	<lemma>preciso</lemma>	<depend head="w1177">cc</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1180">	<text>de</text>	<lemma>de</lemma>	<depend head="w1181">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1181">	<text>amenaza</text>	<lemma>amenaza</lemma>	<depend head="w1176">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1182">	<text>o</text>	<lemma>o</lemma>	<depend head="w1181">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1183">	<text>de</text>	<lemma>de</lemma>	<depend head="w1184">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1184">	<text>ejecución</text>	<lemma>ejecución</lemma>	<depend head="w1181">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1185">	<text>de</text>	<lemma>de</lemma>	<depend head="w1187">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1186">	<text>un</text>	<lemma>uno</lemma>	<depend head="w1187">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1187">	<text>acto</text>	<lemma>acto</lemma>	<depend head="w1184">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1188">	<text>de</text>	<lemma>de</lemma>	<depend head="w1189">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1189">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w1187">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1190">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w1189">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1191">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1192">	<text>el</text>	<lemma>el</lemma>	<depend head="w1193">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1193">	<text>tribunal</text>	<lemma>tribunal</lemma>	<depend head="w1200">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1194">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1195">	<text>a</text>	<lemma>a</lemma>	<depend head="w1196">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1196">	<text>solicitud</text>	<lemma>solicitud</lemma>	<depend head="w1193">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1197">	<text>de</text>	<lemma>de</lemma>	<depend head="w1198">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1198">	<text>parte</text>	<lemma>parte</lemma>	<depend head="w1196">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1199">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1200">	<text>podrá</text>	<lemma>poder</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1201">	<text>ordenar</text>	<lemma>ordenar</lemma>	<depend head="w1200">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w1202">	<text>su</text>	<lemma>suyo</lemma>	<depend head="w1203">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Poss tonic UTR SG P3</morpho></tags></token>
+<token id="w1203">	<text>suspensión</text>	<lemma>suspensión</lemma>	<depend head="w1201">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1204">	<text>inmediata</text>	<lemma>inmediato</lemma>	<depend head="w1203">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM SG</morpho></tags></token>
+<token id="w1205">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1206">	<text>sin</text>	<lemma>sin</lemma>	<depend head="w1207">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1207">	<text>perjuicio</text>	<lemma>perjuicio</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1208">	<text>de</text>	<lemma>de</lemma>	<depend head="w1211">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1209">	<text>las</text>	<lemma>las</lemma>	<depend head="w1211">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1210">	<text>demás</text>	<lemma>demás</lemma>	<depend head="w1211">ad</depend>	<tags><syntax>@PREMOD</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w1211">	<text>medidas</text>	<lemma>medida</lemma>	<depend head="w1207">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1212">	<text>precautorias</text>	<lemma>precautorio</lemma>	<depend head="w1211">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w1213">	<text>previstas</text>	<lemma>previsto</lemma>	<depend head="w1212">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w1214">	<text>en</text>	<lemma>en</lemma>	<depend head="w1215">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1215">	<text>TituloV</text>	<lemma>titulov</lemma>	<depend head="w1201">loc</depend>	<tags><syntax>@NH</syntax> <morpho>Heur N SG Prop</morpho></tags></token>
+<token id="w1216">	<text>de</text>	<lemma>de</lemma>	<depend head="w1218">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1217">	<text>l</text>	<lemma>el</lemma>	<depend head="w1218">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1218">	<text>Libro</text>	<lemma>libro</lemma>	<depend head="w1215">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1219">	<text>II</text>	<lemma>ii</lemma>	<depend head="w1218">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD</morpho></tags></token>
+<token id="w1220">	<text>de</text>	<lemma>de</lemma>	<depend head="w1222">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1221">	<text>l</text>	<lemma>el</lemma>	<depend head="w1222">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1222">	<text>Código</text>	<lemma>código</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1223">	<text>de</text>	<lemma>de</lemma>	<depend head="w1224">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1224">	<text>Procedimiento</text>	<lemma>procedimiento</lemma>	<depend head="w1222">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1225">	<text>Civil</text>	<lemma>civil</lemma>	<depend head="w1224">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1226">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w1228">
+<token id="w1229">	<text>Artículo</text>	<lemma>artículo</lemma>	<depend head="w1228">main</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1230">	<text>10</text>	<lemma>10</lemma>	<depend head="w1229">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w1231">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w1232">
+<token id="w1233">	<text>-</text>	<lemma>-</lemma></token>
+<token id="w1234">	<text>Si</text>	<lemma>si</lemma>	<depend head="w1238">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w1235">	<text>la</text>	<lemma>la</lemma>	<depend head="w1236">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1236">	<text>sentencia</text>	<lemma>sentencia</lemma>	<depend head="w1238">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1237">	<text>firme</text>	<lemma>firme</lemma>	<depend head="w1236">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1238">	<text>establece</text>	<lemma>establecer</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1239">	<text>que</text>	<lemma>que</lemma>	<depend head="w1241">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>CS</morpho></tags></token>
+<token id="w1240">	<text>han</text>	<lemma>haber</lemma>	<depend head="w1241">v-ch</depend>	<tags><syntax>@AUX</syntax> <morpho>V IND PRES PL P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1241">	<text>existido</text>	<lemma>existir</lemma>	<depend head="w1238">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF MSC SG</morpho></tags></token>
+<token id="w1242">	<text>uno</text>	<lemma>uno</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON MSC SG</morpho></tags>	<tags><syntax>@NH</syntax> <morpho>NUM CARD MSC SG</morpho></tags></token>
+<token id="w1243">	<text>o</text>	<lemma>o</lemma>	<depend head="w1238">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1244">	<text>más</text>	<lemma>más</lemma>	<depend head="w1245">qn</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON</morpho></tags></token>
+<token id="w1245">	<text>actos</text>	<lemma>acto</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1246">	<text>de</text>	<lemma>de</lemma>	<depend head="w1247">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1247">	<text>competencia</text>	<lemma>competencia</lemma>	<depend head="w1245">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1248">	<text>desleal</text>	<lemma>desleal</lemma>	<depend head="w1247">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1249">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1250">	<text>el</text>	<lemma>el</lemma>	<depend head="w1251">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1251">	<text>tribunal</text>	<lemma>tribunal</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1252">	<text>que</text>	<lemma>que</lemma>	<depend head="w1254">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w1253">	<text>la</text>	<lemma>la</lemma>	<depend head="w1254">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers FEM SG ACC</morpho></tags></token>
+<token id="w1254">	<text>dictó</text>	<lemma>dictar</lemma>	<depend head="w1238">cc</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRET SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1255">	<text>deberá</text>	<lemma>deber</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1256">	<text>remitir</text>	<lemma>remitir</lemma>	<depend head="w1255">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w1257">	<text>todos</text>	<lemma>todo</lemma>	<depend head="w1258">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1258">	<text>los</text>	<lemma>los</lemma>	<depend head="w1259">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1259">	<text>antecedentes</text>	<lemma>antecedente</lemma>	<depend head="w1256">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1260">	<text>de</text>	<lemma>de</lemma>	<depend head="w1262">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1261">	<text>l</text>	<lemma>el</lemma>	<depend head="w1262">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1262">	<text>juicio</text>	<lemma>juicio</lemma>	<depend head="w1259">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1263">	<text>a</text>	<lemma>a</lemma>	<depend head="w1265">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1264">	<text>l</text>	<lemma>el</lemma>	<depend head="w1265">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1265">	<text>Fiscal</text>	<lemma>fiscal</lemma>		<tags><syntax>@NH</syntax> <morpho>N UTR SG Prop</morpho></tags></token>
+<token id="w1266">	<text>Nacional</text>	<lemma>nacional</lemma>	<depend head="w1265">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1267">	<text>Económico</text>	<lemma>económico</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC SG Prop</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG Prop</morpho></tags></token>
+<token id="w1268">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1269">	<text>quien</text>	<lemma>quien</lemma>	<depend head="w1270">subj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel SG</morpho></tags></token>
+<token id="w1270">	<text>tendrá</text>	<lemma>tener</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1271">	<text>la</text>	<lemma>la</lemma>	<depend head="w1272">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1272">	<text>facultad</text>	<lemma>facultad</lemma>	<depend head="w1270">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1273">	<text>de</text>	<lemma>de</lemma>	<depend head="w1274">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1274">	<text>referir</text>	<lemma>referir</lemma>	<depend head="w1272">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w1275">	<text>a</text>	<lemma>a</lemma>	<depend head="w1277">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1276">	<text>l</text>	<lemma>el</lemma>	<depend head="w1277">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1277">	<text>Tribunal</text>	<lemma>tribunal</lemma>	<depend head="w1274">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1278">	<text>de</text>	<lemma>de</lemma>	<depend head="w1279">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1279">	<text>Defensa</text>	<lemma>defensa</lemma>	<depend head="w1277">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG Prop</morpho></tags></token>
+<token id="w1280">	<text>de</text>	<lemma>de</lemma>	<depend head="w1283">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1281">	<text>la</text>	<lemma>la</lemma>	<depend head="w1283">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1282">	<text>Libre</text>	<lemma>libre</lemma>	<depend head="w1283">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1283">	<text>Competencia</text>	<lemma>competencia</lemma>	<depend head="w1279">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG Prop</morpho></tags></token>
+<token id="w1284">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1285">	<text>atendidas</text>	<lemma>atender</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V PCP PERF FEM PL</morpho></tags></token>
+<token id="w1286">	<text>la</text>	<lemma>la</lemma>	<depend head="w1287">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1287">	<text>gravedad</text>	<lemma>gravedad</lemma>	<depend head="w1285">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1288">	<text>de</text>	<lemma>de</lemma>	<depend head="w1290">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1289">	<text>la</text>	<lemma>la</lemma>	<depend head="w1290">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1290">	<text>infracción</text>	<lemma>infracción</lemma>	<depend head="w1287">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1291">	<text>o</text>	<lemma>o</lemma>	<depend head="w1290">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1292">	<text>la</text>	<lemma>la</lemma>	<depend head="w1293">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1293">	<text>extensión</text>	<lemma>extensión</lemma>	<depend head="w1290">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1294">	<text>de</text>	<lemma>de</lemma>	<depend head="w1296">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1295">	<text>l</text>	<lemma>el</lemma>	<depend head="w1296">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1296">	<text>perjuicio</text>	<lemma>perjuicio</lemma>	<depend head="w1293">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1297">	<text>provocado</text>	<lemma>provocado</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1298">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1299">	<text>la</text>	<lemma>la</lemma>	<depend head="w1300">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1300">	<text>aplicación</text>	<lemma>aplicación</lemma>	<depend head="w1297">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1301">	<text>de</text>	<lemma>de</lemma>	<depend head="w1303">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1302">	<text>la</text>	<lemma>la</lemma>	<depend head="w1303">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1303">	<text>multa</text>	<lemma>multa</lemma>	<depend head="w1300">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1304">	<text>correspondiente</text>	<lemma>correspondiente</lemma>	<depend head="w1303">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1305">	<text>de</text>	<lemma>de</lemma>	<depend head="w1306">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1306">	<text>conformidad</text>	<lemma>conformidad</lemma>	<depend head="w1303">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1307">	<text>con</text>	<lemma>con</lemma>	<depend head="w1309">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1308">	<text>esta</text>	<lemma>este</lemma>	<depend head="w1309">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem FEM SG</morpho></tags></token>
+<token id="w1309">	<text>ley</text>	<lemma>ley</lemma>	<depend head="w1306">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1310">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w1312">
+<token id="w1313">	<text>El</text>	<lemma>el</lemma>	<depend head="w1314">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1314">	<text>Fiscal</text>	<lemma>fiscal</lemma>	<depend head="w1317">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N UTR SG Prop</morpho></tags></token>
+<token id="w1315">	<text>Nacional</text>	<lemma>nacional</lemma>	<depend head="w1314">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1316">	<text>Económico</text>	<lemma>económico</lemma>		<tags><syntax>@NH</syntax> <morpho>A MSC SG Prop</morpho></tags>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG Prop</morpho></tags></token>
+<token id="w1317">	<text>podrá</text>	<lemma>poder</lemma>	<depend head="w1312">main</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1318">	<text>interponer</text>	<lemma>interponer</lemma>	<depend head="w1317">obj</depend>	<tags><syntax>@MAIN</syntax> <morpho>V INF</morpho></tags></token>
+<token id="w1319">	<text>la</text>	<lemma>la</lemma>	<depend head="w1320">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1320">	<text>acción</text>	<lemma>acción</lemma>	<depend head="w1318">obj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1321">	<text>ante</text>	<lemma>ante</lemma>	<depend head="w1323">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1322">	<text>el</text>	<lemma>el</lemma>	<depend head="w1323">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1323">	<text>Tribunal</text>	<lemma>tribunal</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG Prop</morpho></tags></token>
+<token id="w1324">	<text>de</text>	<lemma>de</lemma>	<depend head="w1327">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1325">	<text>la</text>	<lemma>la</lemma>	<depend head="w1327">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1326">	<text>Libre</text>	<lemma>libre</lemma>	<depend head="w1327">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A UTR SG Prop</morpho></tags></token>
+<token id="w1327">	<text>Competencia</text>	<lemma>competencia</lemma>	<depend head="w1323">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG Prop</morpho></tags></token>
+<token id="w1328">	<text>dentro</text>	<lemma>dentro</lemma>	<depend head="w1318">loc</depend>	<tags><syntax>@ADVL</syntax> <morpho>ADV</morpho></tags></token>
+<token id="w1329">	<text>de</text>	<lemma>de</lemma>	<depend head="w1332">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1330">	<text>los</text>	<lemma>los</lemma>	<depend head="w1332">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1331">	<text>dos</text>	<lemma>dos</lemma>	<depend head="w1332">qn</depend>	<tags><syntax>@PREMOD</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w1332">	<text>años</text>	<lemma>año</lemma>	<depend head="w1328">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1333">	<text>siguientes</text>	<lemma>siguiente</lemma>	<depend head="w1332">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w1334">	<text>a</text>	<lemma>a</lemma>	<depend head="w1336">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1335">	<text>la</text>	<lemma>la</lemma>	<depend head="w1336">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1336">	<text>recepción</text>	<lemma>recepción</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1337">	<text>de</text>	<lemma>de</lemma>	<depend head="w1339">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1338">	<text>los</text>	<lemma>los</lemma>	<depend head="w1339">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC PL</morpho></tags></token>
+<token id="w1339">	<text>antecedentes</text>	<lemma>antecedente</lemma>	<depend head="w1336">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC PL</morpho></tags></token>
+<token id="w1340">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/><sentence id="w1342">
+<token id="w1343">	<text>La</text>	<lemma>la</lemma>	<depend head="w1344">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1344">	<text>multa</text>	<lemma>multa</lemma>	<depend head="w1356">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1345">	<text>a</text>	<lemma>a</lemma>	<depend head="w1347">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1346">	<text>la</text>	<lemma>la</lemma>	<depend head="w1347">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1347">	<text>que</text>	<lemma>que</lemma>	<depend head="w1349">cla</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Rel</morpho></tags></token>
+<token id="w1348">	<text>se</text>	<lemma>se</lemma>	<depend head="w1349">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w1349">	<text>refiere</text>	<lemma>referir</lemma>	<depend head="w1344">mod</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND PRES SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1350">	<text>el</text>	<lemma>el</lemma>	<depend head="w1351">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1351">	<text>inciso</text>	<lemma>inciso</lemma>	<depend head="w1349">subj</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1352">	<text>primero</text>	<lemma>primero</lemma>	<depend head="w1351">mod</depend>	<tags><syntax>@NH</syntax> <morpho>NUM ORD MSC SG</morpho></tags></token>
+<token id="w1353">	<text>de</text>	<lemma>de</lemma>	<depend head="w1355">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1354">	<text>este</text>	<lemma>este</lemma>	<depend head="w1355">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>PRON Dem MSC SG</morpho></tags></token>
+<token id="w1355">	<text>artículo</text>	<lemma>artículo</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1356">	<text>fluctuará</text>	<lemma>fluctuar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>SUBJECT</subject></tags></token>
+<token id="w1357">	<text>entre</text>	<lemma>entre</lemma>	<depend head="w1361">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1358">	<text>2</text>	<lemma>2</lemma>	<depend head="w1360">cc</depend>	<tags><syntax>@PREMOD</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w1359">	<text>y</text>	<lemma>y</lemma>	<depend head="w1360">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1360">	<text>1.000</text>	<lemma>1.000</lemma>	<depend head="w1361">qn</depend>	<tags><syntax>@PREMOD</syntax> <morpho>NUM CARD</morpho></tags></token>
+<token id="w1361">	<text>unidades</text>	<lemma>unidad</lemma>	<depend head="w1356">advl</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1362">	<text>tributarias</text>	<lemma>tributario</lemma>	<depend head="w1361">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A FEM PL</morpho></tags></token>
+<token id="w1363">	<text>mensuales</text>	<lemma>mensual</lemma>	<depend head="w1362">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w1364">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1365">	<text>y</text>	<lemma>y</lemma>	<depend head="w1356">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1366">	<text>se</text>	<lemma>se</lemma>	<depend head="w1367">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w1367">	<text>aplicará</text>	<lemma>aplicar</lemma>	<depend head="w1356">cc</depend>	<tags><syntax>@MAIN</syntax> <morpho>V IND FUT SG P3</morpho> <subject>ZERO_PR</subject></tags></token>
+<token id="w1368">	<text>a</text>	<lemma>a</lemma>	<depend head="w1369">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1369">	<text>beneficio</text>	<lemma>beneficio</lemma>	<depend head="w1367">advl</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1370">	<text>fiscal</text>	<lemma>fiscal</lemma>	<depend head="w1369">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1371">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<sentence id="w1372">
+<token id="w1373">	<text>Para</text>	<lemma>para</lemma>	<depend head="w1375">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1374">	<text>la</text>	<lemma>la</lemma>	<depend head="w1375">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1375">	<text>determinación</text>	<lemma>determinación</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1376">	<text>de</text>	<lemma>de</lemma>	<depend head="w1378">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1377">	<text>l</text>	<lemma>el</lemma>	<depend head="w1378">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1378">	<text>monto</text>	<lemma>monto</lemma>	<depend head="w1375">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1379">	<text>de</text>	<lemma>de</lemma>	<depend head="w1381">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1380">	<text>la</text>	<lemma>la</lemma>	<depend head="w1381">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1381">	<text>multa</text>	<lemma>multa</lemma>	<depend head="w1378">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1382">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1383">	<text>se</text>	<lemma>se</lemma>	<depend head="w1384">obj</depend>	<tags><syntax>@NH</syntax> <morpho>PRON Pers Refl P3 ACC</morpho></tags></token>
+<token id="w1384">	<text>considerarán</text>	<lemma>considerar</lemma>		<tags><syntax>@MAIN</syntax> <morpho>V IND FUT PL P3</morpho> <subject>SUBJECT_PR</subject></tags></token>
+<token id="w1385">	<text>entre</text>	<lemma>entre</lemma>	<depend head="w1386">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1386">	<text>otras</text>	<lemma>otro</lemma>		<tags><syntax>@NH</syntax> <morpho>PRON FEM PL</morpho></tags></token>
+<token id="w1387">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1388">	<text>las</text>	<lemma>las</lemma>	<depend head="w1390">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM PL</morpho></tags></token>
+<token id="w1389">	<text>siguientes</text>	<lemma>siguiente</lemma>	<depend head="w1390">attr</depend>	<tags><syntax>@PREMOD</syntax> <morpho>A UTR PL</morpho></tags></token>
+<token id="w1390">	<text>circunstancias</text>	<lemma>circunstancia</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM PL</morpho></tags></token>
+<token id="w1391">	<text>:</text>	<lemma>:</lemma></token>
+<token id="w1392">	<text>el</text>	<lemma>el</lemma>	<depend head="w1393">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1393">	<text>beneficio</text>	<lemma>beneficio</lemma>	<depend head="w1390">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1394">	<text>económico</text>	<lemma>económico</lemma>	<depend head="w1393">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1395">	<text>obtenido</text>	<lemma>obtenido</lemma>	<depend head="w1394">ads</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>A MSC SG</morpho></tags></token>
+<token id="w1396">	<text>con</text>	<lemma>con</lemma>	<depend head="w1397">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1397">	<text>motivo</text>	<lemma>motivo</lemma>	<depend head="w1384">com</depend>	<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1398">	<text>de</text>	<lemma>de</lemma>	<depend head="w1400">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1399">	<text>la</text>	<lemma>la</lemma>	<depend head="w1400">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1400">	<text>infracción</text>	<lemma>infracción</lemma>	<depend head="w1397">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1401">	<text>,</text>	<lemma>,</lemma></token>
+<token id="w1402">	<text>la</text>	<lemma>la</lemma>	<depend head="w1403">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1403">	<text>gravedad</text>	<lemma>gravedad</lemma>		<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1404">	<text>de</text>	<lemma>de</lemma>	<depend head="w1406">pm</depend>	<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1405">	<text>la</text>	<lemma>la</lemma>	<depend head="w1406">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1406">	<text>conducta</text>	<lemma>conducta</lemma>	<depend head="w1403">mod</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1407">	<text>y</text>	<lemma>y</lemma>	<depend head="w1406">cc</depend>	<tags><syntax>@CC</syntax> <morpho>CC</morpho></tags></token>
+<token id="w1408">	<text>la</text>	<lemma>la</lemma>	<depend head="w1409">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET FEM SG</morpho></tags></token>
+<token id="w1409">	<text>calidad</text>	<lemma>calidad</lemma>	<depend head="w1406">cc</depend>	<tags><syntax>@NH</syntax> <morpho>N FEM SG</morpho></tags></token>
+<token id="w1410">	<text>de</text>	<lemma>de</lemma>		<tags><syntax>@POSTMOD</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1411">	<text>reincidente</text>	<lemma>reincidente</lemma>		<tags><syntax>@NH</syntax> <morpho>A UTR SG</morpho></tags></token>
+<token id="w1412">	<text>de</text>	<lemma>de</lemma>	<depend head="w1414">pm</depend>	<tags><syntax>@PREMARK</syntax> <morpho>PREP</morpho></tags></token>
+<token id="w1413">	<text>l</text>	<lemma>el</lemma>	<depend head="w1414">det</depend>	<tags><syntax>@PREMOD</syntax> <morpho>DET MSC SG</morpho></tags></token>
+<token id="w1414">	<text>infractor</text>	<lemma>infractor</lemma>		<tags><syntax>@NH</syntax> <morpho>N MSC SG</morpho></tags></token>
+<token id="w1415">	<text>.</text>	<lemma>.</lemma></token>
+</sentence>
+<paragraph/></analysis>

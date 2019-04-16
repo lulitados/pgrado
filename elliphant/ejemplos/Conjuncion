@@ -1,0 +1,44 @@
+Conjuncion
+
+Nosotros quedamos sorprendidos puesto que desconocíamos su absentismo y tratamos de recoger la información necesaria para recomponer el caso y comenzar la intervención.
+
+[Nosotros quedamos sorprendidos [puesto que desconocíamos su absentismo]] [y tratamos de recoger la información necesaria [para recomponer el caso] [y comenzar la intervención]].
+
+coor-vb/top/(y y CC 7) [True] [
+  grup-verb/coor/(quedamos quedar VMIP1P0 1) [True] [
+    sn/subj/(Nosotros nosotros PP1MP00 0) [True]
+    subord-part/pred/(sorprendidos sorprender VMP00PM 2) [True]
+    subord/adjt/(puesto_que puesto_que CS 3) [True] [
+      grup-verb/comp/(desconocíamos desconocer VMII1P0 4) [True] [
+        sn/dobj/(absentismo absentismo NCMS000 6) [True] [
+          espec-ms/spec/(su su DP3CSN 5) [False]
+        ]
+      ]
+    ]
+  ]
+  grup-verb/coor/(tratamos tratar VMIP1P0 8) [True] [
+    grup-sp-inf/pobj/(de de SP 9) [True] [
+      grup-verb-inf/comp/(recoger recoger VMN0000 10) [False] [
+        sn/dobj/(información información NCFS000 12) [True] [
+          espec-fs/spec/(la el DA0FS0 11) [False]
+          s-a-fs/mod/(necesaria necesario AQ0FS00 13) [False]
+        ]
+      ]
+    ]
+    grup-sp-inf/adjt/(para para SP 14) [True] [
+      grup-verb-inf/comp/(recomponer recomponer VMN0000 15) [False] [
+        sn/dobj/(caso caso NCMS000 17) [True] [
+          espec-ms/spec/(el el DA0MS0 16) [False]
+        ]
+      ]
+    ]
+    coor-inf/dobj/(y y CC 18) [True] [
+      grup-verb-inf/coor/(comenzar comenzar VMN0000 19) [True] [
+        sn/dobj/(intervención intervención NCFS000 21) [True] [
+          espec-fs/spec/(la el DA0FS0 20) [False]
+        ]
+      ]
+    ]
+  ]
+  F-term/punc/(. . Fp 22) [True]
+]

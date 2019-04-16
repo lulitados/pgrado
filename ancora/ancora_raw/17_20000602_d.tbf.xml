@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lng='es' id='article503'>
+  <sentence id='sentence5240'>
+    <sn tem='tem' entity='entity1' homophoricDD='yes' entityref='nne' func='suj' arg='arg1' id='sn47032'>
+      <spec num='s' gen='m' id='spec24313'>
+        <d wd='El' postype='article' pos='da0ms0' lem='el' num='s' id='d23873' gen='m'/>
+      </spec>
+      <grup.nom num='s' gen='m' id='grup.nom44894'>
+        <n wd='carril-bici' postype='common' pos='ncms000' lem='carril-bici' num='s' sense='16:cs3' id='n38852' gen='m'/>
+      </grup.nom>
+    </sn>
+    <grup.verb id='grup.verb13272'>
+      <v wd='es' mood='indicative' postype='semiauxiliary' pos='vsip3s0' lem='ser' person='3' num='s' tense='present' lss='C21.state-attributive' id='v18946'/>
+    </grup.verb>
+    <sn tem='atr' coreftype='pred' entity='entity1' corefsubtype='indefinit' func='atr' arg='arg2' id='sn47033'>
+      <spec num='s' gen='m' id='spec24314'>
+        <d wd='un' postype='indefinite' pos='di0ms0' lem='uno' num='s' id='d23874' gen='m'/>
+      </spec>
+      <grup.nom num='s' gen='m' id='grup.nom44895'>
+        <n wd='chollo' postype='common' pos='ncms000' lem='chollo' num='s' sense='16:cs1' id='n38853' gen='m'/>
+      </grup.nom>
+    </sn>
+    <sp id='sp25958' tem='adv' func='cc' arg='argM'>
+      <prep id='prep25311'>
+        <s id='s25399' postype='preposition' wd='para' lem='para' pos='sps00'/>
+      </prep>
+      <sn entityref='nne' id='sn47034'>
+        <grup.nom num='p' gen='m' id='grup.nom44896'>
+          <p wd='ellos' postype='personal' pos='pp3mp000' lem='él' person='3' num='p' id='p6927' gen='m'/>
+        </grup.nom>
+      </sn>
+    </sp>
+    <S clausesubtype='conditional' clausetype='adverbial' func='ao' id='S15997'>
+      <conj id='conj7965' conjunctiontype='subordinating'>
+        <c id='c8243' postype='subordinating' wd='si' lem='si' pos='cs'/>
+      </conj>
+      <sn tem='agt' entityref='nne' func='suj' arg='arg0' elliptic='yes' id='sn47035'/>
+      <grup.verb id='grup.verb13273'>
+        <v wd='tenemos_en_cuenta' mood='indicative' postype='main' lexicalid='verb.tener_en_cuenta.1.default' lem='tener_en_cuenta' pos='vmip1p0' person='1' num='p' tense='present' lss='A21.transitive-agentive-patient' id='v18947'/>
+      </grup.verb>
+      <S tem='pat' id='S15998' clausetype='completive' func='cd' arg='arg1'>
+        <conj id='conj7966' conjunctiontype='subordinating'>
+          <c id='c8244' postype='subordinating' wd='que' lem='que' pos='cs'/>
+        </conj>
+        <morfema.verbal id='morfema.verbal735' func='impers'>
+          <p wd='se' pos='p0000000' gen='c' lem='se' num='c' id='p6928'/>
+        </morfema.verbal>
+        <grup.verb id='grup.verb13274'>
+          <v wd='está' mood='indicative' postype='main' pos='vmip3s0' lem='estar' person='3' num='s' tense='present' id='v18948'/>
+          <gerundi id='gerundi399'>
+            <v wd='haciendo' mood='gerund' postype='main' lexicalid='verb.hacer.2.default' pos='vmg0000' lem='hacer' lss='A21.transitive-agentive-patient' id='v18949'/>
+          </gerundi>
+        </grup.verb>
+        <sn id='sn47036' complex='yes' tem='pat' func='cd' arg='arg1'>
+          <grup.nom id='grup.nom44897' coord='yes'>
+            <grup.nom num='s' gen='m' id='grup.nom44898'>
+              <p wd='poco' postype='indefinite' pos='pi0ms000' lem='poco' num='s' id='p6929' gen='m'/>
+            </grup.nom>
+            <conj id='conj7967' conjunctiontype='coordinating'>
+              <c id='c8245' postype='coordinating' wd='o' lem='o' pos='cc'/>
+            </conj>
+            <grup.nom num='s' gen='m' id='grup.nom44899'>
+              <p wd='nada' postype='indefinite' pos='pi0cs000' lem='nada' num='s' id='p6930' gen='c'/>
+            </grup.nom>
+          </grup.nom>
+        </sn>
+        <sp id='sp25959' tem='fin' func='cc' arg='argM'>
+          <prep id='prep25312'>
+            <s id='s25400' postype='preposition' wd='para' lem='para' pos='sps00'/>
+          </prep>
+          <S clausetype='completive' id='S15999'>
+            <conj id='conj7968' conjunctiontype='subordinating'>
+              <c id='c8246' postype='subordinating' wd='que' lem='que' pos='cs'/>
+            </conj>
+            <sn tem='tem' coreftype='ident' entity='entity1' entityref='nne' func='suj' arg='arg1' id='sn47037'>
+              <spec num='p' gen='m' id='spec24315'>
+                <d wd='esos' postype='demonstrative' pos='dd0mp0' lem='ese' num='p' id='d23875' gen='m'/>
+              </spec>
+              <grup.nom num='p' gen='m' id='grup.nom44900'>
+                <n wd='carriles' postype='common' pos='ncmp000' lem='carril' num='p' sense='16:03526011' id='n38854' gen='m'/>
+              </grup.nom>
+            </sn>
+            <grup.verb id='grup.verb13275'>
+              <v wd='sean' mood='subjunctive' postype='semiauxiliary' pos='vssp3p0' lem='ser' person='3' num='p' tense='present' lss='C21.state-attributive' id='v18950'/>
+            </grup.verb>
+            <S tem='atr' impersonal='yes' clausetype='participle' func='atr' arg='arg2' id='S16000'>
+              <sadv id='sadv3800' tem='adv' func='cc' arg='argM'>
+                <grup.adv id='grup.adv3772'>
+                  <r id='r5569' wd='realmente' lem='realmente' pos='rg'/>
+                </grup.adv>
+              </sadv>
+              <participi id='participi2010'>
+                <a wd='respetados' postype='qualificative' pos='aq0mpp' lem='respetado' posfunction='participle' num='p' lss='B22.unaccusative-passive-transitive' id='a11244' gen='m'/>
+              </participi>
+            </S>
+          </S>
+        </sp>
+      </S>
+    </S>
+    <f id='f20654' punct='period' wd='.' lem='.' pos='fp'/>
+  </sentence>
+</article>
